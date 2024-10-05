@@ -29,3 +29,34 @@ C:\Users\Esha\Desktop\HackathonCSharpUTM\ClimateStory\obj\Debug\net8.0\refint\Cl
 C:\Users\Esha\Desktop\HackathonCSharpUTM\ClimateStory\obj\Debug\net8.0\ClimateStory.pdb
 C:\Users\Esha\Desktop\HackathonCSharpUTM\ClimateStory\obj\Debug\net8.0\ClimateStory.genruntimeconfig.cache
 C:\Users\Esha\Desktop\HackathonCSharpUTM\ClimateStory\obj\Debug\net8.0\ref\ClimateStory.dll
+c:\Users\Neha Desai\OneDrive\Desktop\Hackathon 2024\ClimateStory\HackathonCSharpUTM\ClimateStory\bin\Debug\net8.0\appsettings.Development.json
+c:\Users\Neha Desai\OneDrive\Desktop\Hackathon 2024\ClimateStory\HackathonCSharpUTM\ClimateStory\bin\Debug\net8.0\appsettings.json
+c:\Users\Neha Desai\OneDrive\Desktop\Hackathon 2024\ClimateStory\HackathonCSharpUTM\ClimateStory\bin\Debug\net8.0\ClimateStory.staticwebassets.runtime.json
+c:\Users\Neha Desai\OneDrive\Desktop\Hackathon 2024\ClimateStory\HackathonCSharpUTM\ClimateStory\bin\Debug\net8.0\ClimateStory.exe
+c:\Users\Neha Desai\OneDrive\Desktop\Hackathon 2024\ClimateStory\HackathonCSharpUTM\ClimateStory\bin\Debug\net8.0\ClimateStory.deps.json
+c:\Users\Neha Desai\OneDrive\Desktop\Hackathon 2024\ClimateStory\HackathonCSharpUTM\ClimateStory\bin\Debug\net8.0\ClimateStory.runtimeconfig.json
+c:\Users\Neha Desai\OneDrive\Desktop\Hackathon 2024\ClimateStory\HackathonCSharpUTM\ClimateStory\bin\Debug\net8.0\ClimateStory.dll
+c:\Users\Neha Desai\OneDrive\Desktop\Hackathon 2024\ClimateStory\HackathonCSharpUTM\ClimateStory\bin\Debug\net8.0\ClimateStory.pdb
+c:\Users\Neha Desai\OneDrive\Desktop\Hackathon 2024\ClimateStory\HackathonCSharpUTM\ClimateStory\obj\Debug\net8.0\ClimateStory.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Neha Desai\OneDrive\Desktop\Hackathon 2024\ClimateStory\HackathonCSharpUTM\ClimateStory\obj\Debug\net8.0\ClimateStory.AssemblyInfoInputs.cache
+c:\Users\Neha Desai\OneDrive\Desktop\Hackathon 2024\ClimateStory\HackathonCSharpUTM\ClimateStory\obj\Debug\net8.0\ClimateStory.AssemblyInfo.cs
+c:\Users\Neha Desai\OneDrive\Desktop\Hackathon 2024\ClimateStory\HackathonCSharpUTM\ClimateStory\obj\Debug\net8.0\ClimateStory.csproj.CoreCompileInputs.cache
+c:\Users\Neha Desai\OneDrive\Desktop\Hackathon 2024\ClimateStory\HackathonCSharpUTM\ClimateStory\obj\Debug\net8.0\ClimateStory.MvcApplicationPartsAssemblyInfo.cache
+c:\Users\Neha Desai\OneDrive\Desktop\Hackathon 2024\ClimateStory\HackathonCSharpUTM\ClimateStory\obj\Debug\net8.0\ClimateStory.RazorAssemblyInfo.cache
+c:\Users\Neha Desai\OneDrive\Desktop\Hackathon 2024\ClimateStory\HackathonCSharpUTM\ClimateStory\obj\Debug\net8.0\ClimateStory.RazorAssemblyInfo.cs
+c:\Users\Neha Desai\OneDrive\Desktop\Hackathon 2024\ClimateStory\HackathonCSharpUTM\ClimateStory\obj\Debug\net8.0\ClimateStory.sourcelink.json
+c:\Users\Neha Desai\OneDrive\Desktop\Hackathon 2024\ClimateStory\HackathonCSharpUTM\ClimateStory\obj\Debug\net8.0\staticwebassets.build.json
+c:\Users\Neha Desai\OneDrive\Desktop\Hackathon 2024\ClimateStory\HackathonCSharpUTM\ClimateStory\obj\Debug\net8.0\staticwebassets.development.json
+c:\Users\Neha Desai\OneDrive\Desktop\Hackathon 2024\ClimateStory\HackathonCSharpUTM\ClimateStory\obj\Debug\net8.0\staticwebassets\msbuild.ClimateStory.Microsoft.AspNetCore.StaticWebAssets.props
+c:\Users\Neha Desai\OneDrive\Desktop\Hackathon 2024\ClimateStory\HackathonCSharpUTM\ClimateStory\obj\Debug\net8.0\staticwebassets\msbuild.build.ClimateStory.props
+c:\Users\Neha Desai\OneDrive\Desktop\Hackathon 2024\ClimateStory\HackathonCSharpUTM\ClimateStory\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ClimateStory.props
+c:\Users\Neha Desai\OneDrive\Desktop\Hackathon 2024\ClimateStory\HackathonCSharpUTM\ClimateStory\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ClimateStory.props
+c:\Users\Neha Desai\OneDrive\Desktop\Hackathon 2024\ClimateStory\HackathonCSharpUTM\ClimateStory\obj\Debug\net8.0\staticwebassets.pack.json
+c:\Users\Neha Desai\OneDrive\Desktop\Hackathon 2024\ClimateStory\HackathonCSharpUTM\ClimateStory\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+c:\Users\Neha Desai\OneDrive\Desktop\Hackathon 2024\ClimateStory\HackathonCSharpUTM\ClimateStory\obj\Debug\net8.0\scopedcss\bundle\ClimateStory.styles.css
+c:\Users\Neha Desai\OneDrive\Desktop\Hackathon 2024\ClimateStory\HackathonCSharpUTM\ClimateStory\obj\Debug\net8.0\scopedcss\projectbundle\ClimateStory.bundle.scp.css
+c:\Users\Neha Desai\OneDrive\Desktop\Hackathon 2024\ClimateStory\HackathonCSharpUTM\ClimateStory\obj\Debug\net8.0\ClimateStory.dll
+c:\Users\Neha Desai\OneDrive\Desktop\Hackathon 2024\ClimateStory\HackathonCSharpUTM\ClimateStory\obj\Debug\net8.0\refint\ClimateStory.dll
+c:\Users\Neha Desai\OneDrive\Desktop\Hackathon 2024\ClimateStory\HackathonCSharpUTM\ClimateStory\obj\Debug\net8.0\ClimateStory.pdb
+c:\Users\Neha Desai\OneDrive\Desktop\Hackathon 2024\ClimateStory\HackathonCSharpUTM\ClimateStory\obj\Debug\net8.0\ClimateStory.genruntimeconfig.cache
+c:\Users\Neha Desai\OneDrive\Desktop\Hackathon 2024\ClimateStory\HackathonCSharpUTM\ClimateStory\obj\Debug\net8.0\ref\ClimateStory.dll
