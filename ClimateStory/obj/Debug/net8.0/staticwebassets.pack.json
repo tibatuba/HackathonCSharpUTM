@@ -260,6 +260,19 @@
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
+<<<<<<< HEAD
+<<<<<<< HEAD
+      "Id": "C:\\Users\\tibaa\\OneDrive\\Desktop\\HackathonCSharpUTM\\ClimateStory\\wwwroot\\data\\GHG.csv",
+      "PackagePath": "staticwebassets\\data\\GHG.csv"
+    },
+    {
+      "Id": "C:\\Users\\tibaa\\OneDrive\\Desktop\\HackathonCSharpUTM\\ClimateStory\\wwwroot\\data\\OilGas.csv",
+      "PackagePath": "staticwebassets\\data\\OilGas.csv"
+    },
+    {
+      "Id": "C:\\Users\\tibaa\\OneDrive\\Desktop\\HackathonCSharpUTM\\ClimateStory\\wwwroot\\favicon.ico",
+=======
+=======
       "Id": "C:\\Users\\Esha\\Desktop\\HackathonCSharpUTM\\ClimateStory\\wwwroot\\data\\GHG.csv",
       "PackagePath": "staticwebassets\\data\\GHG.csv"
     },
@@ -268,7 +281,9 @@
       "PackagePath": "staticwebassets\\data\\OilGas.csv"
     },
     {
+>>>>>>> 418c9e158c6f10b714a2a5935a29db12c6dba0bb
       "Id": "C:\\Users\\Esha\\Desktop\\HackathonCSharpUTM\\ClimateStory\\wwwroot\\favicon.ico",
+>>>>>>> 6a9a6aa1d54edb2ef3dbcc7192421bef110f0c5c
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
