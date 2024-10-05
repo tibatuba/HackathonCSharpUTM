@@ -1,0 +1,47 @@
+@{
+    ViewData["Title"] = "CO2 Emissions";
+}
+
+<h2>CO2 Emissions Data</h2>
+
+<div class="row">
+    <div class="col-md-8">
+        <h3>Emissions Overview</h3>
+        <canvas id="co2Chart"></canvas> <!-- Placeholder for the chart -->
+    </div>
+    <div class="col-md-4">
+        <h4>Filter Data</h4>
+        <label for="startDate">Start Date</label>
+        <input type="date" id="startDate" class="form-control mb-2" />
+        
+        <label for="endDate">End Date</label>
+        <input type="date" id="endDate" class="form-control mb-2" />
+        
+        <button class="btn btn-primary mt-2" id="filterBtn">Apply Filters</button>
+    </div>
+</div>
+
+<script>
+    // Placeholder for chart integration
+    var ctx = document.getElementById('co2Chart').getContext('2d');
+    var co2Chart = new Chart(ctx, {
+        type: 'line', // Change to the chart type you prefer
+        data: {
+            labels: [], // To be populated with date labels
+            datasets: [{
+                label: 'CO2 Emissions',
+                data: [], // To be populated with emission data
+                backgroundColor: 'rgba(75, 192, 192, 0.2)',
+                borderColor: 'rgba(75, 192, 192, 1)',
+                borderWidth: 1
+            }]
+        },
+        options: {
+            scales: {
+                y: {
+                    beginAtZero: true
+                }
+            }
+        }
+    });
+</script>

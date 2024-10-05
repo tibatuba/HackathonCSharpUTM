@@ -18,7 +18,12 @@ public class HomeController : Controller
         return View();
     }
 
-    public IActionResult Privacy()
+    public IActionResult CO2Emissions()
+    {
+        return View();
+    }
+
+    public IActionResult Stories()
     {
         return View();
     }
