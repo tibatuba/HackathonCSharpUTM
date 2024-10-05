@@ -1,16 +1,20 @@
-/* site.css */
-.jumbotron {
-  background-color: #e9f7ef;
-  padding: 2rem 1rem;
-  border-radius: 10px;
-  margin-bottom: 2rem;
+html, body {
+  height: 100%;
 }
 
-.card {
-  margin-bottom: 1.5rem;
+body {
+  display: flex;
+  flex-direction: column;
 }
 
-.footer {
+.container {
+  flex: 1; /* This ensures the main content takes up available vertical space */
+}
+
+footer {
   background-color: #f8f9fa;
-  padding: 1rem 0;
+  padding: 1rem;
+  position: relative;
+  bottom: 0;
+  width: 100%;
 }
