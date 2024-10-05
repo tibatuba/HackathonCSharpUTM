@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "UrLFZNqEaBI=",
   "success": true,
   "projectFilePath": "c:\\Users\\Neha Desai\\OneDrive\\Desktop\\Hackathon 2024\\ClimateStory\\HackathonCSharpUTM\\ClimateStory\\ClimateStory.csproj",
+=======
+  "dgSpecHash": "t6fyhAVc0hw=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Esha\\Desktop\\HackathonCSharpUTM\\ClimateStory\\ClimateStory.csproj",
+>>>>>>> 5af9f608ea8396160293fab0eb49e3b4557fdf10
   "expectedPackageFiles": [],
   "logs": []
 }

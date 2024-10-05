@@ -1,6 +1,7 @@
 {
   "format": 1,
   "restore": {
+<<<<<<< HEAD
     "c:\\Users\\Neha Desai\\OneDrive\\Desktop\\Hackathon 2024\\ClimateStory\\HackathonCSharpUTM\\ClimateStory\\ClimateStory.csproj": {}
   },
   "projects": {
@@ -12,12 +13,29 @@
         "projectPath": "c:\\Users\\Neha Desai\\OneDrive\\Desktop\\Hackathon 2024\\ClimateStory\\HackathonCSharpUTM\\ClimateStory\\ClimateStory.csproj",
         "packagesPath": "C:\\Users\\Neha Desai\\.nuget\\packages\\",
         "outputPath": "c:\\Users\\Neha Desai\\OneDrive\\Desktop\\Hackathon 2024\\ClimateStory\\HackathonCSharpUTM\\ClimateStory\\obj\\",
+=======
+    "C:\\Users\\Esha\\Desktop\\HackathonCSharpUTM\\ClimateStory\\ClimateStory.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Esha\\Desktop\\HackathonCSharpUTM\\ClimateStory\\ClimateStory.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Esha\\Desktop\\HackathonCSharpUTM\\ClimateStory\\ClimateStory.csproj",
+        "projectName": "ClimateStory",
+        "projectPath": "C:\\Users\\Esha\\Desktop\\HackathonCSharpUTM\\ClimateStory\\ClimateStory.csproj",
+        "packagesPath": "C:\\Users\\Esha\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Esha\\Desktop\\HackathonCSharpUTM\\ClimateStory\\obj\\",
+>>>>>>> 5af9f608ea8396160293fab0eb49e3b4557fdf10
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
+<<<<<<< HEAD
           "C:\\Users\\Neha Desai\\AppData\\Roaming\\NuGet\\NuGet.Config",
+=======
+          "C:\\Users\\Esha\\AppData\\Roaming\\NuGet\\NuGet.Config",
+>>>>>>> 5af9f608ea8396160293fab0eb49e3b4557fdf10
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -68,7 +86,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
