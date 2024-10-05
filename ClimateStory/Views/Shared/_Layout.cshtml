@@ -11,17 +11,17 @@
 <body>
     <!--Navbar-->
     <nav class ="navbar navbar-expand-lg navbar-light bg-light">
-        <a class="navbar-brand" href="#"> Climate Story </a>
+    <a class="navbar-brand" href="@Url.Action("Index", "Home")">Climate Story</a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
         </button>
         <div class="collapse navbar-collapse" id="navbarNav">
             <ul class="navbar-nav ml-auto">
                 <li class="nav-item">
-                    <a class="nav-link" asp-controller="CO2Emissions" asp-action="Index">CO2 Emissions</a>
+                    <a class="nav-link" asp-controller="Home" asp-action="CO2Emissions">CO2 Emissions</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" asp-controller="Stories" asp-action="Index">Stories</a>
+                    <a class="nav-link" asp-controller="Home" asp-action="Stories">Stories</a>
                 </li>
             </ul>
         </div>
@@ -37,7 +37,7 @@
         <div class="container">
             &copy; 2024 - Climate Story App
         </div>
-    </footer>
+    </footer> 
     <script src="~/lib/jquery/dist/jquery.min.js"></script>
     <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
     <script src="~/js/site.js" asp-append-version="true"></script>
