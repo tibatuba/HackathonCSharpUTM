@@ -18,7 +18,7 @@ public class HomeController : Controller
         return View();
     }
 
-    public IActionResult C02Emissions()
+    public IActionResult CO2Emissions()
     {
         return View();
     }
