@@ -1,9 +1,18 @@
 {
   "Version": 1,
 <<<<<<< HEAD
+<<<<<<< HEAD
   "Hash": "kK2SRWBZhEyck5MmIu58kj8eTpXT1zZ8x/TYKFN3oxU=",
 =======
 <<<<<<< HEAD
+=======
+<<<<<<< HEAD
+  "Hash": "aTj5gDH1K2A+oK012+ws4GVspsenu8w05rgPvpm/JnQ=",
+=======
+  "Hash": "ZQBMxYxvSdBGioCiQLrOZa1ycBfnHaCFHeS8uC7sbsA=",
+>>>>>>> 6a9a6aa1d54edb2ef3dbcc7192421bef110f0c5c
+=======
+>>>>>>> e917f4a7deaef2fc830dd34f11a544be858d1073
   "Hash": "1CWflZV9b7JwFJ+YSF47vDN9hsgyQWfhjm/I/MCGGQ8=",
 =======
   "Hash": "v9XiF/5w7O/k0W3sXu7pu+W6DANB8JnNCDQND1Ffsqw=",
@@ -145,12 +154,21 @@
     },
     {
 <<<<<<< HEAD
+<<<<<<< HEAD
       "Identity": "c:\\Users\\moham\\Desktop\\hackathon\\HackathonCSharpUTM\\ClimateStory\\wwwroot\\data\\GHG.csv",
       "SourceId": "ClimateStory",
       "SourceType": "Discovered",
       "ContentRoot": "c:\\Users\\moham\\Desktop\\hackathon\\HackathonCSharpUTM\\ClimateStory\\wwwroot\\",
 =======
 <<<<<<< HEAD
+=======
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\tibaa\\OneDrive\\Desktop\\HackathonCSharpUTM\\ClimateStory\\wwwroot\\data\\GHG.csv",
+      "SourceId": "ClimateStory",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\tibaa\\OneDrive\\Desktop\\HackathonCSharpUTM\\ClimateStory\\wwwroot\\",
+=======
+>>>>>>> e917f4a7deaef2fc830dd34f11a544be858d1073
       "Identity": "C:\\Users\\Neha Desai\\OneDrive\\Desktop\\Hackathon 2024\\ClimateStory\\HackathonCSharpUTM\\ClimateStory\\wwwroot\\data\\GHG.csv",
       "SourceId": "ClimateStory",
       "SourceType": "Discovered",
@@ -178,6 +196,7 @@
     },
     {
 <<<<<<< HEAD
+<<<<<<< HEAD
       "Identity": "c:\\Users\\moham\\Desktop\\hackathon\\HackathonCSharpUTM\\ClimateStory\\wwwroot\\data\\NFDB_point_20240613.csv",
       "SourceId": "ClimateStory",
       "SourceType": "Discovered",
@@ -201,6 +220,12 @@
       "SourceId": "ClimateStory",
       "SourceType": "Discovered",
       "ContentRoot": "c:\\Users\\moham\\Desktop\\hackathon\\HackathonCSharpUTM\\ClimateStory\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\tibaa\\OneDrive\\Desktop\\HackathonCSharpUTM\\ClimateStory\\wwwroot\\data\\OilGas.csv",
+      "SourceId": "ClimateStory",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\tibaa\\OneDrive\\Desktop\\HackathonCSharpUTM\\ClimateStory\\wwwroot\\",
+>>>>>>> e917f4a7deaef2fc830dd34f11a544be858d1073
 =======
 <<<<<<< HEAD
       "Identity": "C:\\Users\\Neha Desai\\OneDrive\\Desktop\\Hackathon 2024\\ClimateStory\\HackathonCSharpUTM\\ClimateStory\\wwwroot\\data\\OilGas.csv",
@@ -230,18 +255,24 @@
     },
     {
 <<<<<<< HEAD
+<<<<<<< HEAD
       "Identity": "c:\\Users\\moham\\Desktop\\hackathon\\HackathonCSharpUTM\\ClimateStory\\wwwroot\\favicon.ico",
       "SourceId": "ClimateStory",
       "SourceType": "Discovered",
       "ContentRoot": "c:\\Users\\moham\\Desktop\\hackathon\\HackathonCSharpUTM\\ClimateStory\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\tibaa\\OneDrive\\Desktop\\HackathonCSharpUTM\\ClimateStory\\wwwroot\\favicon.ico",
+>>>>>>> e917f4a7deaef2fc830dd34f11a544be858d1073
 =======
 <<<<<<< HEAD
       "Identity": "C:\\Users\\Neha Desai\\OneDrive\\Desktop\\Hackathon 2024\\ClimateStory\\HackathonCSharpUTM\\ClimateStory\\wwwroot\\favicon.ico",
       "SourceId": "ClimateStory",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Neha Desai\\OneDrive\\Desktop\\Hackathon 2024\\ClimateStory\\HackathonCSharpUTM\\ClimateStory\\wwwroot\\",
+>>>>>>> 418c9e158c6f10b714a2a5935a29db12c6dba0bb
 =======
       "Identity": "C:\\Users\\Esha\\Desktop\\HackathonCSharpUTM\\ClimateStory\\wwwroot\\favicon.ico",
+>>>>>>> 6a9a6aa1d54edb2ef3dbcc7192421bef110f0c5c
       "SourceId": "ClimateStory",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Esha\\Desktop\\HackathonCSharpUTM\\ClimateStory\\wwwroot\\",
