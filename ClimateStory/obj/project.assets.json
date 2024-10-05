@@ -8,7 +8,7 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\tibaa\\.nuget\\packages\\": {},
+    "C:\\Users\\moham\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
@@ -21,18 +21,18 @@
       "packagesPath": "C:\\Users\\Neha Desai\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Neha Desai\\OneDrive\\Desktop\\Hackathon 2024\\ClimateStory\\HackathonCSharpUTM\\ClimateStory\\obj\\",
 =======
-      "projectUniqueName": "C:\\Users\\tibaa\\OneDrive\\Desktop\\HackathonCSharpUTM\\ClimateStory\\ClimateStory.csproj",
+      "projectUniqueName": "C:\\Users\\moham\\Desktop\\hackathon\\HackathonCSharpUTM\\ClimateStory\\ClimateStory.csproj",
       "projectName": "ClimateStory",
-      "projectPath": "C:\\Users\\tibaa\\OneDrive\\Desktop\\HackathonCSharpUTM\\ClimateStory\\ClimateStory.csproj",
-      "packagesPath": "C:\\Users\\tibaa\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\tibaa\\OneDrive\\Desktop\\HackathonCSharpUTM\\ClimateStory\\obj\\",
->>>>>>> e1a3107eeee2cac1dd4461f7dfb37f61e2b8bf25
+      "projectPath": "C:\\Users\\moham\\Desktop\\hackathon\\HackathonCSharpUTM\\ClimateStory\\ClimateStory.csproj",
+      "packagesPath": "C:\\Users\\moham\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\moham\\Desktop\\hackathon\\HackathonCSharpUTM\\ClimateStory\\obj\\",
+>>>>>>> 05571f630c27574c7da84021b0d595c483cb0761
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\tibaa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\moham\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -83,8 +83,20 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
       }
     }
+<<<<<<< HEAD
   }
+=======
+  },
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file C:\\Users\\moham\\Desktop\\hackathon\\HackathonCSharpUTM\\ClimateStory\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
+>>>>>>> 05571f630c27574c7da84021b0d595c483cb0761
 }
