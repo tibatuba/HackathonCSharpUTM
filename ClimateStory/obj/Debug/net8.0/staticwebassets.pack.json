@@ -9,6 +9,14 @@
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
+      "Id": "C:\\Users\\Esha\\Desktop\\HackathonCSharpUTM\\ClimateStory\\wwwroot\\data\\GHG.csv",
+      "PackagePath": "staticwebassets\\data\\GHG.csv"
+    },
+    {
+      "Id": "C:\\Users\\Esha\\Desktop\\HackathonCSharpUTM\\ClimateStory\\wwwroot\\data\\OilGas.csv",
+      "PackagePath": "staticwebassets\\data\\OilGas.csv"
+    },
+    {
       "Id": "C:\\Users\\Esha\\Desktop\\HackathonCSharpUTM\\ClimateStory\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
