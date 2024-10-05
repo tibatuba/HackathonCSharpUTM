@@ -1,15 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "k4BgUEI/KTQ=",
+  "dgSpecHash": "s7u+BeS6hV0=",
   "success": true,
-  "projectFilePath": "C:\\Users\\moham\\Desktop\\hackathon\\HackathonCSharpUTM\\ClimateStory\\ClimateStory.csproj",
+  "projectFilePath": "c:\\Users\\moham\\Desktop\\hackathon\\HackathonCSharpUTM\\ClimateStory\\ClimateStory.csproj",
   "expectedPackageFiles": [],
-  "logs": [
-    {
-      "code": "Undefined",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Problem reading the cache file C:\\Users\\moham\\Desktop\\hackathon\\HackathonCSharpUTM\\ClimateStory\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
-    }
-  ]
+  "logs": []
 }
