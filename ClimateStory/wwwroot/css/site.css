@@ -1,22 +1,16 @@
-html {
-  font-size: 14px;
+/* site.css */
+.jumbotron {
+  background-color: #e9f7ef;
+  padding: 2rem 1rem;
+  border-radius: 10px;
+  margin-bottom: 2rem;
 }
 
-@media (min-width: 768px) {
-  html {
-    font-size: 16px;
-  }
+.card {
+  margin-bottom: 1.5rem;
 }
 
-.btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
-  box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
-}
-
-html {
-  position: relative;
-  min-height: 100%;
-}
-
-body {
-  margin-bottom: 60px;
+.footer {
+  background-color: #f8f9fa;
+  padding: 1rem 0;
 }
