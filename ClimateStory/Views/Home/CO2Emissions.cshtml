@@ -2,46 +2,38 @@
     ViewData["Title"] = "CO2 Emissions";
 }
 
-<h2>CO2 Emissions Data</h2>
-
-<div class="row">
-    <div class="col-md-8">
-        <h3>Emissions Overview</h3>
-        <canvas id="co2Chart"></canvas> <!-- Placeholder for the chart -->
-    </div>
-    <div class="col-md-4">
-        <h4>Filter Data</h4>
-        <label for="startDate">Start Date</label>
-        <input type="date" id="startDate" class="form-control mb-2" />
-        
-        <label for="endDate">End Date</label>
-        <input type="date" id="endDate" class="form-control mb-2" />
-        
-        <button class="btn btn-primary mt-2" id="filterBtn">Apply Filters</button>
-    </div>
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
 </div>
 
+<!-- Add a div for the map -->
+<div id="map" style="height: 600px; width: 100%;"></div>
+
+<!-- Include Leaflet.js -->
+<link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
+<script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
+
 <script>
-    // Placeholder for chart integration
-    var ctx = document.getElementById('co2Chart').getContext('2d');
-    var co2Chart = new Chart(ctx, {
-        type: 'line', // Change to the chart type you prefer
-        data: {
-            labels: [], // To be populated with date labels
-            datasets: [{
-                label: 'CO2 Emissions',
-                data: [], // To be populated with emission data
-                backgroundColor: 'rgba(75, 192, 192, 0.2)',
-                borderColor: 'rgba(75, 192, 192, 1)',
-                borderWidth: 1
-            }]
-        },
-        options: {
-            scales: {
-                y: {
-                    beginAtZero: true
-                }
-            }
-        }
-    });
+    // Define the bounds for Canada
+    var canadaBounds = [
+        [41.6765556, -141.00187], // Southwest corner (approx)
+        [83.11388, -52.63629]     // Northeast corner (approx)
+    ];
+
+    // Initialize the map and fit it within Canada bounds
+    var map = L.map('map').fitBounds(canadaBounds);
+
+    // Add OpenStreetMap tile layer
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+        attribution: '© OpenStreetMap contributors'
+    }).addTo(map);
+
+    // Restrict panning and zooming to Canada's bounding box
+    map.setMaxBounds(canadaBounds);
+    map.setMinZoom(4);  // Set an appropriate zoom level for Canada
+
+    L.marker([56.1304, -106.3468]).addTo(map)
+        .bindPopup('A pretty marker.<br> Easily customizable.')
+        .openPopup();
 </script>

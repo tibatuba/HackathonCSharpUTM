@@ -1,8 +1,39 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "t6fyhAVc0hw=",
   "success": true,
   "projectFilePath": "C:\\Users\\Esha\\Desktop\\HackathonCSharpUTM\\ClimateStory\\ClimateStory.csproj",
   "expectedPackageFiles": [],
   "logs": []
+=======
+<<<<<<< HEAD
+  "dgSpecHash": "UrLFZNqEaBI=",
+  "success": true,
+  "projectFilePath": "c:\\Users\\Neha Desai\\OneDrive\\Desktop\\Hackathon 2024\\ClimateStory\\HackathonCSharpUTM\\ClimateStory\\ClimateStory.csproj",
+=======
+  "dgSpecHash": "s7u+BeS6hV0=",
+  "success": true,
+  "projectFilePath": "c:\\Users\\moham\\Desktop\\hackathon\\HackathonCSharpUTM\\ClimateStory\\ClimateStory.csproj",
+>>>>>>> 817f21808468178f815ace06768c68cce8c57790
+  "expectedPackageFiles": [],
+  "logs": []
+<<<<<<< HEAD
+=======
+=======
+<<<<<<< HEAD
+  "logs": []
+=======
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file C:\\Users\\moham\\Desktop\\hackathon\\HackathonCSharpUTM\\ClimateStory\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
+>>>>>>> 05571f630c27574c7da84021b0d595c483cb0761
+>>>>>>> 4642f8d41738408a21ee268f2f23a8322b949263
+>>>>>>> 817f21808468178f815ace06768c68cce8c57790
+>>>>>>> e6209c02ed257dbefce89e63e3650ce91841793d
 }
