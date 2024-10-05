@@ -2,11 +2,17 @@
   "Version": 1,
 <<<<<<< HEAD
 <<<<<<< HEAD
+  "Hash": "kK2SRWBZhEyck5MmIu58kj8eTpXT1zZ8x/TYKFN3oxU=",
+=======
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
   "Hash": "aTj5gDH1K2A+oK012+ws4GVspsenu8w05rgPvpm/JnQ=",
 =======
   "Hash": "ZQBMxYxvSdBGioCiQLrOZa1ycBfnHaCFHeS8uC7sbsA=",
 >>>>>>> 6a9a6aa1d54edb2ef3dbcc7192421bef110f0c5c
 =======
+>>>>>>> e917f4a7deaef2fc830dd34f11a544be858d1073
   "Hash": "1CWflZV9b7JwFJ+YSF47vDN9hsgyQWfhjm/I/MCGGQ8=",
 =======
   "Hash": "v9XiF/5w7O/k0W3sXu7pu+W6DANB8JnNCDQND1Ffsqw=",
@@ -22,16 +28,26 @@
       "Name": "ClimateStory\\wwwroot",
       "Source": "ClimateStory",
 <<<<<<< HEAD
+      "ContentRoot": "c:\\Users\\moham\\Desktop\\hackathon\\HackathonCSharpUTM\\ClimateStory\\wwwroot\\",
+=======
+<<<<<<< HEAD
       "ContentRoot": "C:\\Users\\Neha Desai\\OneDrive\\Desktop\\Hackathon 2024\\ClimateStory\\HackathonCSharpUTM\\ClimateStory\\wwwroot\\",
 =======
       "ContentRoot": "C:\\Users\\Esha\\Desktop\\HackathonCSharpUTM\\ClimateStory\\wwwroot\\",
 >>>>>>> 5af9f608ea8396160293fab0eb49e3b4557fdf10
+>>>>>>> 418c9e158c6f10b714a2a5935a29db12c6dba0bb
       "BasePath": "_content/ClimateStory",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
+<<<<<<< HEAD
+      "Identity": "c:\\Users\\moham\\Desktop\\hackathon\\HackathonCSharpUTM\\ClimateStory\\obj\\Debug\\net8.0\\scopedcss\\bundle\\ClimateStory.styles.css",
+      "SourceId": "ClimateStory",
+      "SourceType": "Computed",
+      "ContentRoot": "c:\\Users\\moham\\Desktop\\hackathon\\HackathonCSharpUTM\\ClimateStory\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+=======
 <<<<<<< HEAD
       "Identity": "C:\\Users\\Neha Desai\\OneDrive\\Desktop\\Hackathon 2024\\ClimateStory\\HackathonCSharpUTM\\ClimateStory\\obj\\Debug\\net8.0\\scopedcss\\bundle\\ClimateStory.styles.css",
       "SourceId": "ClimateStory",
@@ -43,6 +59,7 @@
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\Esha\\Desktop\\HackathonCSharpUTM\\ClimateStory\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
 >>>>>>> 5af9f608ea8396160293fab0eb49e3b4557fdf10
+>>>>>>> 418c9e158c6f10b714a2a5935a29db12c6dba0bb
       "BasePath": "_content/ClimateStory",
       "RelativePath": "ClimateStory.styles.css",
       "AssetKind": "All",
@@ -55,6 +72,15 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
+      "OriginalItemSpec": "c:\\Users\\moham\\Desktop\\hackathon\\HackathonCSharpUTM\\ClimateStory\\obj\\Debug\\net8.0\\scopedcss\\bundle\\ClimateStory.styles.css"
+    },
+    {
+      "Identity": "c:\\Users\\moham\\Desktop\\hackathon\\HackathonCSharpUTM\\ClimateStory\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\ClimateStory.bundle.scp.css",
+      "SourceId": "ClimateStory",
+      "SourceType": "Computed",
+      "ContentRoot": "c:\\Users\\moham\\Desktop\\hackathon\\HackathonCSharpUTM\\ClimateStory\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+=======
 <<<<<<< HEAD
       "OriginalItemSpec": "C:\\Users\\Neha Desai\\OneDrive\\Desktop\\Hackathon 2024\\ClimateStory\\HackathonCSharpUTM\\ClimateStory\\obj\\Debug\\net8.0\\scopedcss\\bundle\\ClimateStory.styles.css"
     },
@@ -72,6 +98,7 @@
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\Esha\\Desktop\\HackathonCSharpUTM\\ClimateStory\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
 >>>>>>> 5af9f608ea8396160293fab0eb49e3b4557fdf10
+>>>>>>> 418c9e158c6f10b714a2a5935a29db12c6dba0bb
       "BasePath": "_content/ClimateStory",
       "RelativePath": "ClimateStory.bundle.scp.css",
       "AssetKind": "All",
@@ -84,6 +111,15 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
+      "OriginalItemSpec": "c:\\Users\\moham\\Desktop\\hackathon\\HackathonCSharpUTM\\ClimateStory\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\ClimateStory.bundle.scp.css"
+    },
+    {
+      "Identity": "c:\\Users\\moham\\Desktop\\hackathon\\HackathonCSharpUTM\\ClimateStory\\wwwroot\\css\\site.css",
+      "SourceId": "ClimateStory",
+      "SourceType": "Discovered",
+      "ContentRoot": "c:\\Users\\moham\\Desktop\\hackathon\\HackathonCSharpUTM\\ClimateStory\\wwwroot\\",
+=======
 <<<<<<< HEAD
       "OriginalItemSpec": "C:\\Users\\Neha Desai\\OneDrive\\Desktop\\Hackathon 2024\\ClimateStory\\HackathonCSharpUTM\\ClimateStory\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\ClimateStory.bundle.scp.css"
     },
@@ -101,6 +137,7 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Esha\\Desktop\\HackathonCSharpUTM\\ClimateStory\\wwwroot\\",
 >>>>>>> 5af9f608ea8396160293fab0eb49e3b4557fdf10
+>>>>>>> 418c9e158c6f10b714a2a5935a29db12c6dba0bb
       "BasePath": "_content/ClimateStory",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -118,11 +155,20 @@
     {
 <<<<<<< HEAD
 <<<<<<< HEAD
+      "Identity": "c:\\Users\\moham\\Desktop\\hackathon\\HackathonCSharpUTM\\ClimateStory\\wwwroot\\data\\GHG.csv",
+      "SourceId": "ClimateStory",
+      "SourceType": "Discovered",
+      "ContentRoot": "c:\\Users\\moham\\Desktop\\hackathon\\HackathonCSharpUTM\\ClimateStory\\wwwroot\\",
+=======
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
       "Identity": "C:\\Users\\tibaa\\OneDrive\\Desktop\\HackathonCSharpUTM\\ClimateStory\\wwwroot\\data\\GHG.csv",
       "SourceId": "ClimateStory",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\tibaa\\OneDrive\\Desktop\\HackathonCSharpUTM\\ClimateStory\\wwwroot\\",
 =======
+>>>>>>> e917f4a7deaef2fc830dd34f11a544be858d1073
       "Identity": "C:\\Users\\Neha Desai\\OneDrive\\Desktop\\Hackathon 2024\\ClimateStory\\HackathonCSharpUTM\\ClimateStory\\wwwroot\\data\\GHG.csv",
       "SourceId": "ClimateStory",
       "SourceType": "Discovered",
@@ -150,10 +196,36 @@
     },
     {
 <<<<<<< HEAD
+<<<<<<< HEAD
+      "Identity": "c:\\Users\\moham\\Desktop\\hackathon\\HackathonCSharpUTM\\ClimateStory\\wwwroot\\data\\NFDB_point_20240613.csv",
+      "SourceId": "ClimateStory",
+      "SourceType": "Discovered",
+      "ContentRoot": "c:\\Users\\moham\\Desktop\\hackathon\\HackathonCSharpUTM\\ClimateStory\\wwwroot\\",
+      "BasePath": "_content/ClimateStory",
+      "RelativePath": "data/NFDB_point_20240613.csv",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\data\\NFDB_point_20240613.csv"
+    },
+    {
+      "Identity": "c:\\Users\\moham\\Desktop\\hackathon\\HackathonCSharpUTM\\ClimateStory\\wwwroot\\data\\OilGas.csv",
+      "SourceId": "ClimateStory",
+      "SourceType": "Discovered",
+      "ContentRoot": "c:\\Users\\moham\\Desktop\\hackathon\\HackathonCSharpUTM\\ClimateStory\\wwwroot\\",
+=======
       "Identity": "C:\\Users\\tibaa\\OneDrive\\Desktop\\HackathonCSharpUTM\\ClimateStory\\wwwroot\\data\\OilGas.csv",
       "SourceId": "ClimateStory",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\tibaa\\OneDrive\\Desktop\\HackathonCSharpUTM\\ClimateStory\\wwwroot\\",
+>>>>>>> e917f4a7deaef2fc830dd34f11a544be858d1073
 =======
 <<<<<<< HEAD
       "Identity": "C:\\Users\\Neha Desai\\OneDrive\\Desktop\\Hackathon 2024\\ClimateStory\\HackathonCSharpUTM\\ClimateStory\\wwwroot\\data\\OilGas.csv",
@@ -183,7 +255,14 @@
     },
     {
 <<<<<<< HEAD
+<<<<<<< HEAD
+      "Identity": "c:\\Users\\moham\\Desktop\\hackathon\\HackathonCSharpUTM\\ClimateStory\\wwwroot\\favicon.ico",
+      "SourceId": "ClimateStory",
+      "SourceType": "Discovered",
+      "ContentRoot": "c:\\Users\\moham\\Desktop\\hackathon\\HackathonCSharpUTM\\ClimateStory\\wwwroot\\",
+=======
       "Identity": "C:\\Users\\tibaa\\OneDrive\\Desktop\\HackathonCSharpUTM\\ClimateStory\\wwwroot\\favicon.ico",
+>>>>>>> e917f4a7deaef2fc830dd34f11a544be858d1073
 =======
 <<<<<<< HEAD
       "Identity": "C:\\Users\\Neha Desai\\OneDrive\\Desktop\\Hackathon 2024\\ClimateStory\\HackathonCSharpUTM\\ClimateStory\\wwwroot\\favicon.ico",
@@ -198,6 +277,7 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Esha\\Desktop\\HackathonCSharpUTM\\ClimateStory\\wwwroot\\",
 >>>>>>> 5af9f608ea8396160293fab0eb49e3b4557fdf10
+>>>>>>> 418c9e158c6f10b714a2a5935a29db12c6dba0bb
       "BasePath": "_content/ClimateStory",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -214,6 +294,12 @@
     },
     {
 <<<<<<< HEAD
+      "Identity": "c:\\Users\\moham\\Desktop\\hackathon\\HackathonCSharpUTM\\ClimateStory\\wwwroot\\js\\site.js",
+      "SourceId": "ClimateStory",
+      "SourceType": "Discovered",
+      "ContentRoot": "c:\\Users\\moham\\Desktop\\hackathon\\HackathonCSharpUTM\\ClimateStory\\wwwroot\\",
+=======
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Neha Desai\\OneDrive\\Desktop\\Hackathon 2024\\ClimateStory\\HackathonCSharpUTM\\ClimateStory\\wwwroot\\js\\site.js",
       "SourceId": "ClimateStory",
       "SourceType": "Discovered",
@@ -224,6 +310,7 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Esha\\Desktop\\HackathonCSharpUTM\\ClimateStory\\wwwroot\\",
 >>>>>>> 5af9f608ea8396160293fab0eb49e3b4557fdf10
+>>>>>>> 418c9e158c6f10b714a2a5935a29db12c6dba0bb
       "BasePath": "_content/ClimateStory",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -240,6 +327,12 @@
     },
     {
 <<<<<<< HEAD
+      "Identity": "c:\\Users\\moham\\Desktop\\hackathon\\HackathonCSharpUTM\\ClimateStory\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "SourceId": "ClimateStory",
+      "SourceType": "Discovered",
+      "ContentRoot": "c:\\Users\\moham\\Desktop\\hackathon\\HackathonCSharpUTM\\ClimateStory\\wwwroot\\",
+=======
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Neha Desai\\OneDrive\\Desktop\\Hackathon 2024\\ClimateStory\\HackathonCSharpUTM\\ClimateStory\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "ClimateStory",
       "SourceType": "Discovered",
@@ -250,6 +343,7 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Esha\\Desktop\\HackathonCSharpUTM\\ClimateStory\\wwwroot\\",
 >>>>>>> 5af9f608ea8396160293fab0eb49e3b4557fdf10
+>>>>>>> 418c9e158c6f10b714a2a5935a29db12c6dba0bb
       "BasePath": "_content/ClimateStory",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -266,6 +360,12 @@
     },
     {
 <<<<<<< HEAD
+      "Identity": "c:\\Users\\moham\\Desktop\\hackathon\\HackathonCSharpUTM\\ClimateStory\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "SourceId": "ClimateStory",
+      "SourceType": "Discovered",
+      "ContentRoot": "c:\\Users\\moham\\Desktop\\hackathon\\HackathonCSharpUTM\\ClimateStory\\wwwroot\\",
+=======
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Neha Desai\\OneDrive\\Desktop\\Hackathon 2024\\ClimateStory\\HackathonCSharpUTM\\ClimateStory\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "ClimateStory",
       "SourceType": "Discovered",
@@ -276,6 +376,7 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Esha\\Desktop\\HackathonCSharpUTM\\ClimateStory\\wwwroot\\",
 >>>>>>> 5af9f608ea8396160293fab0eb49e3b4557fdf10
+>>>>>>> 418c9e158c6f10b714a2a5935a29db12c6dba0bb
       "BasePath": "_content/ClimateStory",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -292,6 +393,12 @@
     },
     {
 <<<<<<< HEAD
+      "Identity": "c:\\Users\\moham\\Desktop\\hackathon\\HackathonCSharpUTM\\ClimateStory\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "SourceId": "ClimateStory",
+      "SourceType": "Discovered",
+      "ContentRoot": "c:\\Users\\moham\\Desktop\\hackathon\\HackathonCSharpUTM\\ClimateStory\\wwwroot\\",
+=======
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Neha Desai\\OneDrive\\Desktop\\Hackathon 2024\\ClimateStory\\HackathonCSharpUTM\\ClimateStory\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "ClimateStory",
       "SourceType": "Discovered",
@@ -302,6 +409,7 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Esha\\Desktop\\HackathonCSharpUTM\\ClimateStory\\wwwroot\\",
 >>>>>>> 5af9f608ea8396160293fab0eb49e3b4557fdf10
+>>>>>>> 418c9e158c6f10b714a2a5935a29db12c6dba0bb
       "BasePath": "_content/ClimateStory",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -318,6 +426,12 @@
     },
     {
 <<<<<<< HEAD
+      "Identity": "c:\\Users\\moham\\Desktop\\hackathon\\HackathonCSharpUTM\\ClimateStory\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "SourceId": "ClimateStory",
+      "SourceType": "Discovered",
+      "ContentRoot": "c:\\Users\\moham\\Desktop\\hackathon\\HackathonCSharpUTM\\ClimateStory\\wwwroot\\",
+=======
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Neha Desai\\OneDrive\\Desktop\\Hackathon 2024\\ClimateStory\\HackathonCSharpUTM\\ClimateStory\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "ClimateStory",
       "SourceType": "Discovered",
@@ -328,6 +442,7 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Esha\\Desktop\\HackathonCSharpUTM\\ClimateStory\\wwwroot\\",
 >>>>>>> 5af9f608ea8396160293fab0eb49e3b4557fdf10
+>>>>>>> 418c9e158c6f10b714a2a5935a29db12c6dba0bb
       "BasePath": "_content/ClimateStory",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -344,6 +459,12 @@
     },
     {
 <<<<<<< HEAD
+      "Identity": "c:\\Users\\moham\\Desktop\\hackathon\\HackathonCSharpUTM\\ClimateStory\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "SourceId": "ClimateStory",
+      "SourceType": "Discovered",
+      "ContentRoot": "c:\\Users\\moham\\Desktop\\hackathon\\HackathonCSharpUTM\\ClimateStory\\wwwroot\\",
+=======
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Neha Desai\\OneDrive\\Desktop\\Hackathon 2024\\ClimateStory\\HackathonCSharpUTM\\ClimateStory\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "ClimateStory",
       "SourceType": "Discovered",
@@ -354,6 +475,7 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Esha\\Desktop\\HackathonCSharpUTM\\ClimateStory\\wwwroot\\",
 >>>>>>> 5af9f608ea8396160293fab0eb49e3b4557fdf10
+>>>>>>> 418c9e158c6f10b714a2a5935a29db12c6dba0bb
       "BasePath": "_content/ClimateStory",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -370,6 +492,12 @@
     },
     {
 <<<<<<< HEAD
+      "Identity": "c:\\Users\\moham\\Desktop\\hackathon\\HackathonCSharpUTM\\ClimateStory\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "SourceId": "ClimateStory",
+      "SourceType": "Discovered",
+      "ContentRoot": "c:\\Users\\moham\\Desktop\\hackathon\\HackathonCSharpUTM\\ClimateStory\\wwwroot\\",
+=======
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Neha Desai\\OneDrive\\Desktop\\Hackathon 2024\\ClimateStory\\HackathonCSharpUTM\\ClimateStory\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "ClimateStory",
       "SourceType": "Discovered",
@@ -380,6 +508,7 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Esha\\Desktop\\HackathonCSharpUTM\\ClimateStory\\wwwroot\\",
 >>>>>>> 5af9f608ea8396160293fab0eb49e3b4557fdf10
+>>>>>>> 418c9e158c6f10b714a2a5935a29db12c6dba0bb
       "BasePath": "_content/ClimateStory",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -396,6 +525,12 @@
     },
     {
 <<<<<<< HEAD
+      "Identity": "c:\\Users\\moham\\Desktop\\hackathon\\HackathonCSharpUTM\\ClimateStory\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "SourceId": "ClimateStory",
+      "SourceType": "Discovered",
+      "ContentRoot": "c:\\Users\\moham\\Desktop\\hackathon\\HackathonCSharpUTM\\ClimateStory\\wwwroot\\",
+=======
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Neha Desai\\OneDrive\\Desktop\\Hackathon 2024\\ClimateStory\\HackathonCSharpUTM\\ClimateStory\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "ClimateStory",
       "SourceType": "Discovered",
@@ -406,6 +541,7 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Esha\\Desktop\\HackathonCSharpUTM\\ClimateStory\\wwwroot\\",
 >>>>>>> 5af9f608ea8396160293fab0eb49e3b4557fdf10
+>>>>>>> 418c9e158c6f10b714a2a5935a29db12c6dba0bb
       "BasePath": "_content/ClimateStory",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -422,6 +558,12 @@
     },
     {
 <<<<<<< HEAD
+      "Identity": "c:\\Users\\moham\\Desktop\\hackathon\\HackathonCSharpUTM\\ClimateStory\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "SourceId": "ClimateStory",
+      "SourceType": "Discovered",
+      "ContentRoot": "c:\\Users\\moham\\Desktop\\hackathon\\HackathonCSharpUTM\\ClimateStory\\wwwroot\\",
+=======
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Neha Desai\\OneDrive\\Desktop\\Hackathon 2024\\ClimateStory\\HackathonCSharpUTM\\ClimateStory\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "ClimateStory",
       "SourceType": "Discovered",
@@ -432,6 +574,7 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Esha\\Desktop\\HackathonCSharpUTM\\ClimateStory\\wwwroot\\",
 >>>>>>> 5af9f608ea8396160293fab0eb49e3b4557fdf10
+>>>>>>> 418c9e158c6f10b714a2a5935a29db12c6dba0bb
       "BasePath": "_content/ClimateStory",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -448,6 +591,12 @@
     },
     {
 <<<<<<< HEAD
+      "Identity": "c:\\Users\\moham\\Desktop\\hackathon\\HackathonCSharpUTM\\ClimateStory\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "SourceId": "ClimateStory",
+      "SourceType": "Discovered",
+      "ContentRoot": "c:\\Users\\moham\\Desktop\\hackathon\\HackathonCSharpUTM\\ClimateStory\\wwwroot\\",
+=======
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Neha Desai\\OneDrive\\Desktop\\Hackathon 2024\\ClimateStory\\HackathonCSharpUTM\\ClimateStory\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "ClimateStory",
       "SourceType": "Discovered",
@@ -458,6 +607,7 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Esha\\Desktop\\HackathonCSharpUTM\\ClimateStory\\wwwroot\\",
 >>>>>>> 5af9f608ea8396160293fab0eb49e3b4557fdf10
+>>>>>>> 418c9e158c6f10b714a2a5935a29db12c6dba0bb
       "BasePath": "_content/ClimateStory",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -474,6 +624,12 @@
     },
     {
 <<<<<<< HEAD
+      "Identity": "c:\\Users\\moham\\Desktop\\hackathon\\HackathonCSharpUTM\\ClimateStory\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "SourceId": "ClimateStory",
+      "SourceType": "Discovered",
+      "ContentRoot": "c:\\Users\\moham\\Desktop\\hackathon\\HackathonCSharpUTM\\ClimateStory\\wwwroot\\",
+=======
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Neha Desai\\OneDrive\\Desktop\\Hackathon 2024\\ClimateStory\\HackathonCSharpUTM\\ClimateStory\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "ClimateStory",
       "SourceType": "Discovered",
@@ -484,6 +640,7 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Esha\\Desktop\\HackathonCSharpUTM\\ClimateStory\\wwwroot\\",
 >>>>>>> 5af9f608ea8396160293fab0eb49e3b4557fdf10
+>>>>>>> 418c9e158c6f10b714a2a5935a29db12c6dba0bb
       "BasePath": "_content/ClimateStory",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -500,6 +657,12 @@
     },
     {
 <<<<<<< HEAD
+      "Identity": "c:\\Users\\moham\\Desktop\\hackathon\\HackathonCSharpUTM\\ClimateStory\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "SourceId": "ClimateStory",
+      "SourceType": "Discovered",
+      "ContentRoot": "c:\\Users\\moham\\Desktop\\hackathon\\HackathonCSharpUTM\\ClimateStory\\wwwroot\\",
+=======
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Neha Desai\\OneDrive\\Desktop\\Hackathon 2024\\ClimateStory\\HackathonCSharpUTM\\ClimateStory\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "ClimateStory",
       "SourceType": "Discovered",
@@ -510,6 +673,7 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Esha\\Desktop\\HackathonCSharpUTM\\ClimateStory\\wwwroot\\",
 >>>>>>> 5af9f608ea8396160293fab0eb49e3b4557fdf10
+>>>>>>> 418c9e158c6f10b714a2a5935a29db12c6dba0bb
       "BasePath": "_content/ClimateStory",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -526,6 +690,12 @@
     },
     {
 <<<<<<< HEAD
+      "Identity": "c:\\Users\\moham\\Desktop\\hackathon\\HackathonCSharpUTM\\ClimateStory\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "SourceId": "ClimateStory",
+      "SourceType": "Discovered",
+      "ContentRoot": "c:\\Users\\moham\\Desktop\\hackathon\\HackathonCSharpUTM\\ClimateStory\\wwwroot\\",
+=======
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Neha Desai\\OneDrive\\Desktop\\Hackathon 2024\\ClimateStory\\HackathonCSharpUTM\\ClimateStory\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "ClimateStory",
       "SourceType": "Discovered",
@@ -536,6 +706,7 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Esha\\Desktop\\HackathonCSharpUTM\\ClimateStory\\wwwroot\\",
 >>>>>>> 5af9f608ea8396160293fab0eb49e3b4557fdf10
+>>>>>>> 418c9e158c6f10b714a2a5935a29db12c6dba0bb
       "BasePath": "_content/ClimateStory",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -552,6 +723,12 @@
     },
     {
 <<<<<<< HEAD
+      "Identity": "c:\\Users\\moham\\Desktop\\hackathon\\HackathonCSharpUTM\\ClimateStory\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "SourceId": "ClimateStory",
+      "SourceType": "Discovered",
+      "ContentRoot": "c:\\Users\\moham\\Desktop\\hackathon\\HackathonCSharpUTM\\ClimateStory\\wwwroot\\",
+=======
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Neha Desai\\OneDrive\\Desktop\\Hackathon 2024\\ClimateStory\\HackathonCSharpUTM\\ClimateStory\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "ClimateStory",
       "SourceType": "Discovered",
@@ -562,6 +739,7 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Esha\\Desktop\\HackathonCSharpUTM\\ClimateStory\\wwwroot\\",
 >>>>>>> 5af9f608ea8396160293fab0eb49e3b4557fdf10
+>>>>>>> 418c9e158c6f10b714a2a5935a29db12c6dba0bb
       "BasePath": "_content/ClimateStory",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -578,6 +756,12 @@
     },
     {
 <<<<<<< HEAD
+      "Identity": "c:\\Users\\moham\\Desktop\\hackathon\\HackathonCSharpUTM\\ClimateStory\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "SourceId": "ClimateStory",
+      "SourceType": "Discovered",
+      "ContentRoot": "c:\\Users\\moham\\Desktop\\hackathon\\HackathonCSharpUTM\\ClimateStory\\wwwroot\\",
+=======
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Neha Desai\\OneDrive\\Desktop\\Hackathon 2024\\ClimateStory\\HackathonCSharpUTM\\ClimateStory\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "ClimateStory",
       "SourceType": "Discovered",
@@ -588,6 +772,7 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Esha\\Desktop\\HackathonCSharpUTM\\ClimateStory\\wwwroot\\",
 >>>>>>> 5af9f608ea8396160293fab0eb49e3b4557fdf10
+>>>>>>> 418c9e158c6f10b714a2a5935a29db12c6dba0bb
       "BasePath": "_content/ClimateStory",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -604,6 +789,12 @@
     },
     {
 <<<<<<< HEAD
+      "Identity": "c:\\Users\\moham\\Desktop\\hackathon\\HackathonCSharpUTM\\ClimateStory\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "SourceId": "ClimateStory",
+      "SourceType": "Discovered",
+      "ContentRoot": "c:\\Users\\moham\\Desktop\\hackathon\\HackathonCSharpUTM\\ClimateStory\\wwwroot\\",
+=======
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Neha Desai\\OneDrive\\Desktop\\Hackathon 2024\\ClimateStory\\HackathonCSharpUTM\\ClimateStory\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "ClimateStory",
       "SourceType": "Discovered",
@@ -614,6 +805,7 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Esha\\Desktop\\HackathonCSharpUTM\\ClimateStory\\wwwroot\\",
 >>>>>>> 5af9f608ea8396160293fab0eb49e3b4557fdf10
+>>>>>>> 418c9e158c6f10b714a2a5935a29db12c6dba0bb
       "BasePath": "_content/ClimateStory",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -630,6 +822,12 @@
     },
     {
 <<<<<<< HEAD
+      "Identity": "c:\\Users\\moham\\Desktop\\hackathon\\HackathonCSharpUTM\\ClimateStory\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "SourceId": "ClimateStory",
+      "SourceType": "Discovered",
+      "ContentRoot": "c:\\Users\\moham\\Desktop\\hackathon\\HackathonCSharpUTM\\ClimateStory\\wwwroot\\",
+=======
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Neha Desai\\OneDrive\\Desktop\\Hackathon 2024\\ClimateStory\\HackathonCSharpUTM\\ClimateStory\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "ClimateStory",
       "SourceType": "Discovered",
@@ -640,6 +838,7 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Esha\\Desktop\\HackathonCSharpUTM\\ClimateStory\\wwwroot\\",
 >>>>>>> 5af9f608ea8396160293fab0eb49e3b4557fdf10
+>>>>>>> 418c9e158c6f10b714a2a5935a29db12c6dba0bb
       "BasePath": "_content/ClimateStory",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -656,6 +855,12 @@
     },
     {
 <<<<<<< HEAD
+      "Identity": "c:\\Users\\moham\\Desktop\\hackathon\\HackathonCSharpUTM\\ClimateStory\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "SourceId": "ClimateStory",
+      "SourceType": "Discovered",
+      "ContentRoot": "c:\\Users\\moham\\Desktop\\hackathon\\HackathonCSharpUTM\\ClimateStory\\wwwroot\\",
+=======
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Neha Desai\\OneDrive\\Desktop\\Hackathon 2024\\ClimateStory\\HackathonCSharpUTM\\ClimateStory\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "ClimateStory",
       "SourceType": "Discovered",
@@ -666,6 +871,7 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Esha\\Desktop\\HackathonCSharpUTM\\ClimateStory\\wwwroot\\",
 >>>>>>> 5af9f608ea8396160293fab0eb49e3b4557fdf10
+>>>>>>> 418c9e158c6f10b714a2a5935a29db12c6dba0bb
       "BasePath": "_content/ClimateStory",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -682,6 +888,12 @@
     },
     {
 <<<<<<< HEAD
+      "Identity": "c:\\Users\\moham\\Desktop\\hackathon\\HackathonCSharpUTM\\ClimateStory\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "SourceId": "ClimateStory",
+      "SourceType": "Discovered",
+      "ContentRoot": "c:\\Users\\moham\\Desktop\\hackathon\\HackathonCSharpUTM\\ClimateStory\\wwwroot\\",
+=======
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Neha Desai\\OneDrive\\Desktop\\Hackathon 2024\\ClimateStory\\HackathonCSharpUTM\\ClimateStory\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "ClimateStory",
       "SourceType": "Discovered",
@@ -692,6 +904,7 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Esha\\Desktop\\HackathonCSharpUTM\\ClimateStory\\wwwroot\\",
 >>>>>>> 5af9f608ea8396160293fab0eb49e3b4557fdf10
+>>>>>>> 418c9e158c6f10b714a2a5935a29db12c6dba0bb
       "BasePath": "_content/ClimateStory",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -708,6 +921,12 @@
     },
     {
 <<<<<<< HEAD
+      "Identity": "c:\\Users\\moham\\Desktop\\hackathon\\HackathonCSharpUTM\\ClimateStory\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "SourceId": "ClimateStory",
+      "SourceType": "Discovered",
+      "ContentRoot": "c:\\Users\\moham\\Desktop\\hackathon\\HackathonCSharpUTM\\ClimateStory\\wwwroot\\",
+=======
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Neha Desai\\OneDrive\\Desktop\\Hackathon 2024\\ClimateStory\\HackathonCSharpUTM\\ClimateStory\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "ClimateStory",
       "SourceType": "Discovered",
@@ -718,6 +937,7 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Esha\\Desktop\\HackathonCSharpUTM\\ClimateStory\\wwwroot\\",
 >>>>>>> 5af9f608ea8396160293fab0eb49e3b4557fdf10
+>>>>>>> 418c9e158c6f10b714a2a5935a29db12c6dba0bb
       "BasePath": "_content/ClimateStory",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -734,6 +954,12 @@
     },
     {
 <<<<<<< HEAD
+      "Identity": "c:\\Users\\moham\\Desktop\\hackathon\\HackathonCSharpUTM\\ClimateStory\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "SourceId": "ClimateStory",
+      "SourceType": "Discovered",
+      "ContentRoot": "c:\\Users\\moham\\Desktop\\hackathon\\HackathonCSharpUTM\\ClimateStory\\wwwroot\\",
+=======
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Neha Desai\\OneDrive\\Desktop\\Hackathon 2024\\ClimateStory\\HackathonCSharpUTM\\ClimateStory\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "ClimateStory",
       "SourceType": "Discovered",
@@ -744,6 +970,7 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Esha\\Desktop\\HackathonCSharpUTM\\ClimateStory\\wwwroot\\",
 >>>>>>> 5af9f608ea8396160293fab0eb49e3b4557fdf10
+>>>>>>> 418c9e158c6f10b714a2a5935a29db12c6dba0bb
       "BasePath": "_content/ClimateStory",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -760,6 +987,12 @@
     },
     {
 <<<<<<< HEAD
+      "Identity": "c:\\Users\\moham\\Desktop\\hackathon\\HackathonCSharpUTM\\ClimateStory\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "SourceId": "ClimateStory",
+      "SourceType": "Discovered",
+      "ContentRoot": "c:\\Users\\moham\\Desktop\\hackathon\\HackathonCSharpUTM\\ClimateStory\\wwwroot\\",
+=======
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Neha Desai\\OneDrive\\Desktop\\Hackathon 2024\\ClimateStory\\HackathonCSharpUTM\\ClimateStory\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "ClimateStory",
       "SourceType": "Discovered",
@@ -770,6 +1003,7 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Esha\\Desktop\\HackathonCSharpUTM\\ClimateStory\\wwwroot\\",
 >>>>>>> 5af9f608ea8396160293fab0eb49e3b4557fdf10
+>>>>>>> 418c9e158c6f10b714a2a5935a29db12c6dba0bb
       "BasePath": "_content/ClimateStory",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -786,6 +1020,12 @@
     },
     {
 <<<<<<< HEAD
+      "Identity": "c:\\Users\\moham\\Desktop\\hackathon\\HackathonCSharpUTM\\ClimateStory\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "SourceId": "ClimateStory",
+      "SourceType": "Discovered",
+      "ContentRoot": "c:\\Users\\moham\\Desktop\\hackathon\\HackathonCSharpUTM\\ClimateStory\\wwwroot\\",
+=======
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Neha Desai\\OneDrive\\Desktop\\Hackathon 2024\\ClimateStory\\HackathonCSharpUTM\\ClimateStory\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "ClimateStory",
       "SourceType": "Discovered",
@@ -796,6 +1036,7 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Esha\\Desktop\\HackathonCSharpUTM\\ClimateStory\\wwwroot\\",
 >>>>>>> 5af9f608ea8396160293fab0eb49e3b4557fdf10
+>>>>>>> 418c9e158c6f10b714a2a5935a29db12c6dba0bb
       "BasePath": "_content/ClimateStory",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -812,6 +1053,12 @@
     },
     {
 <<<<<<< HEAD
+      "Identity": "c:\\Users\\moham\\Desktop\\hackathon\\HackathonCSharpUTM\\ClimateStory\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "SourceId": "ClimateStory",
+      "SourceType": "Discovered",
+      "ContentRoot": "c:\\Users\\moham\\Desktop\\hackathon\\HackathonCSharpUTM\\ClimateStory\\wwwroot\\",
+=======
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Neha Desai\\OneDrive\\Desktop\\Hackathon 2024\\ClimateStory\\HackathonCSharpUTM\\ClimateStory\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "ClimateStory",
       "SourceType": "Discovered",
@@ -822,6 +1069,7 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Esha\\Desktop\\HackathonCSharpUTM\\ClimateStory\\wwwroot\\",
 >>>>>>> 5af9f608ea8396160293fab0eb49e3b4557fdf10
+>>>>>>> 418c9e158c6f10b714a2a5935a29db12c6dba0bb
       "BasePath": "_content/ClimateStory",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -838,6 +1086,12 @@
     },
     {
 <<<<<<< HEAD
+      "Identity": "c:\\Users\\moham\\Desktop\\hackathon\\HackathonCSharpUTM\\ClimateStory\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "SourceId": "ClimateStory",
+      "SourceType": "Discovered",
+      "ContentRoot": "c:\\Users\\moham\\Desktop\\hackathon\\HackathonCSharpUTM\\ClimateStory\\wwwroot\\",
+=======
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Neha Desai\\OneDrive\\Desktop\\Hackathon 2024\\ClimateStory\\HackathonCSharpUTM\\ClimateStory\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "ClimateStory",
       "SourceType": "Discovered",
@@ -848,6 +1102,7 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Esha\\Desktop\\HackathonCSharpUTM\\ClimateStory\\wwwroot\\",
 >>>>>>> 5af9f608ea8396160293fab0eb49e3b4557fdf10
+>>>>>>> 418c9e158c6f10b714a2a5935a29db12c6dba0bb
       "BasePath": "_content/ClimateStory",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -864,6 +1119,12 @@
     },
     {
 <<<<<<< HEAD
+      "Identity": "c:\\Users\\moham\\Desktop\\hackathon\\HackathonCSharpUTM\\ClimateStory\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "SourceId": "ClimateStory",
+      "SourceType": "Discovered",
+      "ContentRoot": "c:\\Users\\moham\\Desktop\\hackathon\\HackathonCSharpUTM\\ClimateStory\\wwwroot\\",
+=======
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Neha Desai\\OneDrive\\Desktop\\Hackathon 2024\\ClimateStory\\HackathonCSharpUTM\\ClimateStory\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "ClimateStory",
       "SourceType": "Discovered",
@@ -874,6 +1135,7 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Esha\\Desktop\\HackathonCSharpUTM\\ClimateStory\\wwwroot\\",
 >>>>>>> 5af9f608ea8396160293fab0eb49e3b4557fdf10
+>>>>>>> 418c9e158c6f10b714a2a5935a29db12c6dba0bb
       "BasePath": "_content/ClimateStory",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -890,6 +1152,12 @@
     },
     {
 <<<<<<< HEAD
+      "Identity": "c:\\Users\\moham\\Desktop\\hackathon\\HackathonCSharpUTM\\ClimateStory\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "SourceId": "ClimateStory",
+      "SourceType": "Discovered",
+      "ContentRoot": "c:\\Users\\moham\\Desktop\\hackathon\\HackathonCSharpUTM\\ClimateStory\\wwwroot\\",
+=======
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Neha Desai\\OneDrive\\Desktop\\Hackathon 2024\\ClimateStory\\HackathonCSharpUTM\\ClimateStory\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "ClimateStory",
       "SourceType": "Discovered",
@@ -900,6 +1168,7 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Esha\\Desktop\\HackathonCSharpUTM\\ClimateStory\\wwwroot\\",
 >>>>>>> 5af9f608ea8396160293fab0eb49e3b4557fdf10
+>>>>>>> 418c9e158c6f10b714a2a5935a29db12c6dba0bb
       "BasePath": "_content/ClimateStory",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -916,6 +1185,12 @@
     },
     {
 <<<<<<< HEAD
+      "Identity": "c:\\Users\\moham\\Desktop\\hackathon\\HackathonCSharpUTM\\ClimateStory\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "SourceId": "ClimateStory",
+      "SourceType": "Discovered",
+      "ContentRoot": "c:\\Users\\moham\\Desktop\\hackathon\\HackathonCSharpUTM\\ClimateStory\\wwwroot\\",
+=======
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Neha Desai\\OneDrive\\Desktop\\Hackathon 2024\\ClimateStory\\HackathonCSharpUTM\\ClimateStory\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "ClimateStory",
       "SourceType": "Discovered",
@@ -926,6 +1201,7 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Esha\\Desktop\\HackathonCSharpUTM\\ClimateStory\\wwwroot\\",
 >>>>>>> 5af9f608ea8396160293fab0eb49e3b4557fdf10
+>>>>>>> 418c9e158c6f10b714a2a5935a29db12c6dba0bb
       "BasePath": "_content/ClimateStory",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -942,6 +1218,12 @@
     },
     {
 <<<<<<< HEAD
+      "Identity": "c:\\Users\\moham\\Desktop\\hackathon\\HackathonCSharpUTM\\ClimateStory\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "SourceId": "ClimateStory",
+      "SourceType": "Discovered",
+      "ContentRoot": "c:\\Users\\moham\\Desktop\\hackathon\\HackathonCSharpUTM\\ClimateStory\\wwwroot\\",
+=======
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Neha Desai\\OneDrive\\Desktop\\Hackathon 2024\\ClimateStory\\HackathonCSharpUTM\\ClimateStory\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "ClimateStory",
       "SourceType": "Discovered",
@@ -952,6 +1234,7 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Esha\\Desktop\\HackathonCSharpUTM\\ClimateStory\\wwwroot\\",
 >>>>>>> 5af9f608ea8396160293fab0eb49e3b4557fdf10
+>>>>>>> 418c9e158c6f10b714a2a5935a29db12c6dba0bb
       "BasePath": "_content/ClimateStory",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -968,6 +1251,12 @@
     },
     {
 <<<<<<< HEAD
+      "Identity": "c:\\Users\\moham\\Desktop\\hackathon\\HackathonCSharpUTM\\ClimateStory\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "SourceId": "ClimateStory",
+      "SourceType": "Discovered",
+      "ContentRoot": "c:\\Users\\moham\\Desktop\\hackathon\\HackathonCSharpUTM\\ClimateStory\\wwwroot\\",
+=======
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Neha Desai\\OneDrive\\Desktop\\Hackathon 2024\\ClimateStory\\HackathonCSharpUTM\\ClimateStory\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "ClimateStory",
       "SourceType": "Discovered",
@@ -978,6 +1267,7 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Esha\\Desktop\\HackathonCSharpUTM\\ClimateStory\\wwwroot\\",
 >>>>>>> 5af9f608ea8396160293fab0eb49e3b4557fdf10
+>>>>>>> 418c9e158c6f10b714a2a5935a29db12c6dba0bb
       "BasePath": "_content/ClimateStory",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -994,6 +1284,12 @@
     },
     {
 <<<<<<< HEAD
+      "Identity": "c:\\Users\\moham\\Desktop\\hackathon\\HackathonCSharpUTM\\ClimateStory\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "SourceId": "ClimateStory",
+      "SourceType": "Discovered",
+      "ContentRoot": "c:\\Users\\moham\\Desktop\\hackathon\\HackathonCSharpUTM\\ClimateStory\\wwwroot\\",
+=======
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Neha Desai\\OneDrive\\Desktop\\Hackathon 2024\\ClimateStory\\HackathonCSharpUTM\\ClimateStory\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "ClimateStory",
       "SourceType": "Discovered",
@@ -1004,6 +1300,7 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Esha\\Desktop\\HackathonCSharpUTM\\ClimateStory\\wwwroot\\",
 >>>>>>> 5af9f608ea8396160293fab0eb49e3b4557fdf10
+>>>>>>> 418c9e158c6f10b714a2a5935a29db12c6dba0bb
       "BasePath": "_content/ClimateStory",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -1020,6 +1317,12 @@
     },
     {
 <<<<<<< HEAD
+      "Identity": "c:\\Users\\moham\\Desktop\\hackathon\\HackathonCSharpUTM\\ClimateStory\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "SourceId": "ClimateStory",
+      "SourceType": "Discovered",
+      "ContentRoot": "c:\\Users\\moham\\Desktop\\hackathon\\HackathonCSharpUTM\\ClimateStory\\wwwroot\\",
+=======
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Neha Desai\\OneDrive\\Desktop\\Hackathon 2024\\ClimateStory\\HackathonCSharpUTM\\ClimateStory\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "ClimateStory",
       "SourceType": "Discovered",
@@ -1030,6 +1333,7 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Esha\\Desktop\\HackathonCSharpUTM\\ClimateStory\\wwwroot\\",
 >>>>>>> 5af9f608ea8396160293fab0eb49e3b4557fdf10
+>>>>>>> 418c9e158c6f10b714a2a5935a29db12c6dba0bb
       "BasePath": "_content/ClimateStory",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -1046,6 +1350,12 @@
     },
     {
 <<<<<<< HEAD
+      "Identity": "c:\\Users\\moham\\Desktop\\hackathon\\HackathonCSharpUTM\\ClimateStory\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "SourceId": "ClimateStory",
+      "SourceType": "Discovered",
+      "ContentRoot": "c:\\Users\\moham\\Desktop\\hackathon\\HackathonCSharpUTM\\ClimateStory\\wwwroot\\",
+=======
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Neha Desai\\OneDrive\\Desktop\\Hackathon 2024\\ClimateStory\\HackathonCSharpUTM\\ClimateStory\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "ClimateStory",
       "SourceType": "Discovered",
@@ -1056,6 +1366,7 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Esha\\Desktop\\HackathonCSharpUTM\\ClimateStory\\wwwroot\\",
 >>>>>>> 5af9f608ea8396160293fab0eb49e3b4557fdf10
+>>>>>>> 418c9e158c6f10b714a2a5935a29db12c6dba0bb
       "BasePath": "_content/ClimateStory",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -1072,6 +1383,12 @@
     },
     {
 <<<<<<< HEAD
+      "Identity": "c:\\Users\\moham\\Desktop\\hackathon\\HackathonCSharpUTM\\ClimateStory\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "SourceId": "ClimateStory",
+      "SourceType": "Discovered",
+      "ContentRoot": "c:\\Users\\moham\\Desktop\\hackathon\\HackathonCSharpUTM\\ClimateStory\\wwwroot\\",
+=======
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Neha Desai\\OneDrive\\Desktop\\Hackathon 2024\\ClimateStory\\HackathonCSharpUTM\\ClimateStory\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "ClimateStory",
       "SourceType": "Discovered",
@@ -1082,6 +1399,7 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Esha\\Desktop\\HackathonCSharpUTM\\ClimateStory\\wwwroot\\",
 >>>>>>> 5af9f608ea8396160293fab0eb49e3b4557fdf10
+>>>>>>> 418c9e158c6f10b714a2a5935a29db12c6dba0bb
       "BasePath": "_content/ClimateStory",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -1098,6 +1416,12 @@
     },
     {
 <<<<<<< HEAD
+      "Identity": "c:\\Users\\moham\\Desktop\\hackathon\\HackathonCSharpUTM\\ClimateStory\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "SourceId": "ClimateStory",
+      "SourceType": "Discovered",
+      "ContentRoot": "c:\\Users\\moham\\Desktop\\hackathon\\HackathonCSharpUTM\\ClimateStory\\wwwroot\\",
+=======
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Neha Desai\\OneDrive\\Desktop\\Hackathon 2024\\ClimateStory\\HackathonCSharpUTM\\ClimateStory\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "ClimateStory",
       "SourceType": "Discovered",
@@ -1108,6 +1432,7 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Esha\\Desktop\\HackathonCSharpUTM\\ClimateStory\\wwwroot\\",
 >>>>>>> 5af9f608ea8396160293fab0eb49e3b4557fdf10
+>>>>>>> 418c9e158c6f10b714a2a5935a29db12c6dba0bb
       "BasePath": "_content/ClimateStory",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -1124,6 +1449,12 @@
     },
     {
 <<<<<<< HEAD
+      "Identity": "c:\\Users\\moham\\Desktop\\hackathon\\HackathonCSharpUTM\\ClimateStory\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "SourceId": "ClimateStory",
+      "SourceType": "Discovered",
+      "ContentRoot": "c:\\Users\\moham\\Desktop\\hackathon\\HackathonCSharpUTM\\ClimateStory\\wwwroot\\",
+=======
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Neha Desai\\OneDrive\\Desktop\\Hackathon 2024\\ClimateStory\\HackathonCSharpUTM\\ClimateStory\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "ClimateStory",
       "SourceType": "Discovered",
@@ -1134,6 +1465,7 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Esha\\Desktop\\HackathonCSharpUTM\\ClimateStory\\wwwroot\\",
 >>>>>>> 5af9f608ea8396160293fab0eb49e3b4557fdf10
+>>>>>>> 418c9e158c6f10b714a2a5935a29db12c6dba0bb
       "BasePath": "_content/ClimateStory",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -1150,6 +1482,12 @@
     },
     {
 <<<<<<< HEAD
+      "Identity": "c:\\Users\\moham\\Desktop\\hackathon\\HackathonCSharpUTM\\ClimateStory\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "SourceId": "ClimateStory",
+      "SourceType": "Discovered",
+      "ContentRoot": "c:\\Users\\moham\\Desktop\\hackathon\\HackathonCSharpUTM\\ClimateStory\\wwwroot\\",
+=======
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Neha Desai\\OneDrive\\Desktop\\Hackathon 2024\\ClimateStory\\HackathonCSharpUTM\\ClimateStory\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "ClimateStory",
       "SourceType": "Discovered",
@@ -1160,6 +1498,7 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Esha\\Desktop\\HackathonCSharpUTM\\ClimateStory\\wwwroot\\",
 >>>>>>> 5af9f608ea8396160293fab0eb49e3b4557fdf10
+>>>>>>> 418c9e158c6f10b714a2a5935a29db12c6dba0bb
       "BasePath": "_content/ClimateStory",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -1176,6 +1515,12 @@
     },
     {
 <<<<<<< HEAD
+      "Identity": "c:\\Users\\moham\\Desktop\\hackathon\\HackathonCSharpUTM\\ClimateStory\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "SourceId": "ClimateStory",
+      "SourceType": "Discovered",
+      "ContentRoot": "c:\\Users\\moham\\Desktop\\hackathon\\HackathonCSharpUTM\\ClimateStory\\wwwroot\\",
+=======
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Neha Desai\\OneDrive\\Desktop\\Hackathon 2024\\ClimateStory\\HackathonCSharpUTM\\ClimateStory\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "ClimateStory",
       "SourceType": "Discovered",
@@ -1186,6 +1531,7 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Esha\\Desktop\\HackathonCSharpUTM\\ClimateStory\\wwwroot\\",
 >>>>>>> 5af9f608ea8396160293fab0eb49e3b4557fdf10
+>>>>>>> 418c9e158c6f10b714a2a5935a29db12c6dba0bb
       "BasePath": "_content/ClimateStory",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -1202,6 +1548,12 @@
     },
     {
 <<<<<<< HEAD
+      "Identity": "c:\\Users\\moham\\Desktop\\hackathon\\HackathonCSharpUTM\\ClimateStory\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "SourceId": "ClimateStory",
+      "SourceType": "Discovered",
+      "ContentRoot": "c:\\Users\\moham\\Desktop\\hackathon\\HackathonCSharpUTM\\ClimateStory\\wwwroot\\",
+=======
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Neha Desai\\OneDrive\\Desktop\\Hackathon 2024\\ClimateStory\\HackathonCSharpUTM\\ClimateStory\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "ClimateStory",
       "SourceType": "Discovered",
@@ -1212,6 +1564,7 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Esha\\Desktop\\HackathonCSharpUTM\\ClimateStory\\wwwroot\\",
 >>>>>>> 5af9f608ea8396160293fab0eb49e3b4557fdf10
+>>>>>>> 418c9e158c6f10b714a2a5935a29db12c6dba0bb
       "BasePath": "_content/ClimateStory",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -1228,6 +1581,12 @@
     },
     {
 <<<<<<< HEAD
+      "Identity": "c:\\Users\\moham\\Desktop\\hackathon\\HackathonCSharpUTM\\ClimateStory\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "SourceId": "ClimateStory",
+      "SourceType": "Discovered",
+      "ContentRoot": "c:\\Users\\moham\\Desktop\\hackathon\\HackathonCSharpUTM\\ClimateStory\\wwwroot\\",
+=======
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Neha Desai\\OneDrive\\Desktop\\Hackathon 2024\\ClimateStory\\HackathonCSharpUTM\\ClimateStory\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "ClimateStory",
       "SourceType": "Discovered",
@@ -1238,6 +1597,7 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Esha\\Desktop\\HackathonCSharpUTM\\ClimateStory\\wwwroot\\",
 >>>>>>> 5af9f608ea8396160293fab0eb49e3b4557fdf10
+>>>>>>> 418c9e158c6f10b714a2a5935a29db12c6dba0bb
       "BasePath": "_content/ClimateStory",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -1254,6 +1614,12 @@
     },
     {
 <<<<<<< HEAD
+      "Identity": "c:\\Users\\moham\\Desktop\\hackathon\\HackathonCSharpUTM\\ClimateStory\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "SourceId": "ClimateStory",
+      "SourceType": "Discovered",
+      "ContentRoot": "c:\\Users\\moham\\Desktop\\hackathon\\HackathonCSharpUTM\\ClimateStory\\wwwroot\\",
+=======
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Neha Desai\\OneDrive\\Desktop\\Hackathon 2024\\ClimateStory\\HackathonCSharpUTM\\ClimateStory\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "ClimateStory",
       "SourceType": "Discovered",
@@ -1264,6 +1630,7 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Esha\\Desktop\\HackathonCSharpUTM\\ClimateStory\\wwwroot\\",
 >>>>>>> 5af9f608ea8396160293fab0eb49e3b4557fdf10
+>>>>>>> 418c9e158c6f10b714a2a5935a29db12c6dba0bb
       "BasePath": "_content/ClimateStory",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -1280,6 +1647,12 @@
     },
     {
 <<<<<<< HEAD
+      "Identity": "c:\\Users\\moham\\Desktop\\hackathon\\HackathonCSharpUTM\\ClimateStory\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "SourceId": "ClimateStory",
+      "SourceType": "Discovered",
+      "ContentRoot": "c:\\Users\\moham\\Desktop\\hackathon\\HackathonCSharpUTM\\ClimateStory\\wwwroot\\",
+=======
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Neha Desai\\OneDrive\\Desktop\\Hackathon 2024\\ClimateStory\\HackathonCSharpUTM\\ClimateStory\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "ClimateStory",
       "SourceType": "Discovered",
@@ -1290,6 +1663,7 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Esha\\Desktop\\HackathonCSharpUTM\\ClimateStory\\wwwroot\\",
 >>>>>>> 5af9f608ea8396160293fab0eb49e3b4557fdf10
+>>>>>>> 418c9e158c6f10b714a2a5935a29db12c6dba0bb
       "BasePath": "_content/ClimateStory",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -1306,6 +1680,12 @@
     },
     {
 <<<<<<< HEAD
+      "Identity": "c:\\Users\\moham\\Desktop\\hackathon\\HackathonCSharpUTM\\ClimateStory\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "SourceId": "ClimateStory",
+      "SourceType": "Discovered",
+      "ContentRoot": "c:\\Users\\moham\\Desktop\\hackathon\\HackathonCSharpUTM\\ClimateStory\\wwwroot\\",
+=======
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Neha Desai\\OneDrive\\Desktop\\Hackathon 2024\\ClimateStory\\HackathonCSharpUTM\\ClimateStory\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "ClimateStory",
       "SourceType": "Discovered",
@@ -1316,6 +1696,7 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Esha\\Desktop\\HackathonCSharpUTM\\ClimateStory\\wwwroot\\",
 >>>>>>> 5af9f608ea8396160293fab0eb49e3b4557fdf10
+>>>>>>> 418c9e158c6f10b714a2a5935a29db12c6dba0bb
       "BasePath": "_content/ClimateStory",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -1332,6 +1713,12 @@
     },
     {
 <<<<<<< HEAD
+      "Identity": "c:\\Users\\moham\\Desktop\\hackathon\\HackathonCSharpUTM\\ClimateStory\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "SourceId": "ClimateStory",
+      "SourceType": "Discovered",
+      "ContentRoot": "c:\\Users\\moham\\Desktop\\hackathon\\HackathonCSharpUTM\\ClimateStory\\wwwroot\\",
+=======
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Neha Desai\\OneDrive\\Desktop\\Hackathon 2024\\ClimateStory\\HackathonCSharpUTM\\ClimateStory\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "ClimateStory",
       "SourceType": "Discovered",
@@ -1342,6 +1729,7 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Esha\\Desktop\\HackathonCSharpUTM\\ClimateStory\\wwwroot\\",
 >>>>>>> 5af9f608ea8396160293fab0eb49e3b4557fdf10
+>>>>>>> 418c9e158c6f10b714a2a5935a29db12c6dba0bb
       "BasePath": "_content/ClimateStory",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -1358,6 +1746,12 @@
     },
     {
 <<<<<<< HEAD
+      "Identity": "c:\\Users\\moham\\Desktop\\hackathon\\HackathonCSharpUTM\\ClimateStory\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "SourceId": "ClimateStory",
+      "SourceType": "Discovered",
+      "ContentRoot": "c:\\Users\\moham\\Desktop\\hackathon\\HackathonCSharpUTM\\ClimateStory\\wwwroot\\",
+=======
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Neha Desai\\OneDrive\\Desktop\\Hackathon 2024\\ClimateStory\\HackathonCSharpUTM\\ClimateStory\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "ClimateStory",
       "SourceType": "Discovered",
@@ -1368,6 +1762,7 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Esha\\Desktop\\HackathonCSharpUTM\\ClimateStory\\wwwroot\\",
 >>>>>>> 5af9f608ea8396160293fab0eb49e3b4557fdf10
+>>>>>>> 418c9e158c6f10b714a2a5935a29db12c6dba0bb
       "BasePath": "_content/ClimateStory",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -1384,6 +1779,12 @@
     },
     {
 <<<<<<< HEAD
+      "Identity": "c:\\Users\\moham\\Desktop\\hackathon\\HackathonCSharpUTM\\ClimateStory\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "SourceId": "ClimateStory",
+      "SourceType": "Discovered",
+      "ContentRoot": "c:\\Users\\moham\\Desktop\\hackathon\\HackathonCSharpUTM\\ClimateStory\\wwwroot\\",
+=======
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Neha Desai\\OneDrive\\Desktop\\Hackathon 2024\\ClimateStory\\HackathonCSharpUTM\\ClimateStory\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "ClimateStory",
       "SourceType": "Discovered",
@@ -1394,6 +1795,7 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Esha\\Desktop\\HackathonCSharpUTM\\ClimateStory\\wwwroot\\",
 >>>>>>> 5af9f608ea8396160293fab0eb49e3b4557fdf10
+>>>>>>> 418c9e158c6f10b714a2a5935a29db12c6dba0bb
       "BasePath": "_content/ClimateStory",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -1410,6 +1812,12 @@
     },
     {
 <<<<<<< HEAD
+      "Identity": "c:\\Users\\moham\\Desktop\\hackathon\\HackathonCSharpUTM\\ClimateStory\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "SourceId": "ClimateStory",
+      "SourceType": "Discovered",
+      "ContentRoot": "c:\\Users\\moham\\Desktop\\hackathon\\HackathonCSharpUTM\\ClimateStory\\wwwroot\\",
+=======
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Neha Desai\\OneDrive\\Desktop\\Hackathon 2024\\ClimateStory\\HackathonCSharpUTM\\ClimateStory\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "ClimateStory",
       "SourceType": "Discovered",
@@ -1420,6 +1828,7 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Esha\\Desktop\\HackathonCSharpUTM\\ClimateStory\\wwwroot\\",
 >>>>>>> 5af9f608ea8396160293fab0eb49e3b4557fdf10
+>>>>>>> 418c9e158c6f10b714a2a5935a29db12c6dba0bb
       "BasePath": "_content/ClimateStory",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -1436,6 +1845,12 @@
     },
     {
 <<<<<<< HEAD
+      "Identity": "c:\\Users\\moham\\Desktop\\hackathon\\HackathonCSharpUTM\\ClimateStory\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "SourceId": "ClimateStory",
+      "SourceType": "Discovered",
+      "ContentRoot": "c:\\Users\\moham\\Desktop\\hackathon\\HackathonCSharpUTM\\ClimateStory\\wwwroot\\",
+=======
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Neha Desai\\OneDrive\\Desktop\\Hackathon 2024\\ClimateStory\\HackathonCSharpUTM\\ClimateStory\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "ClimateStory",
       "SourceType": "Discovered",
@@ -1446,6 +1861,7 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Esha\\Desktop\\HackathonCSharpUTM\\ClimateStory\\wwwroot\\",
 >>>>>>> 5af9f608ea8396160293fab0eb49e3b4557fdf10
+>>>>>>> 418c9e158c6f10b714a2a5935a29db12c6dba0bb
       "BasePath": "_content/ClimateStory",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -1462,6 +1878,12 @@
     },
     {
 <<<<<<< HEAD
+      "Identity": "c:\\Users\\moham\\Desktop\\hackathon\\HackathonCSharpUTM\\ClimateStory\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "SourceId": "ClimateStory",
+      "SourceType": "Discovered",
+      "ContentRoot": "c:\\Users\\moham\\Desktop\\hackathon\\HackathonCSharpUTM\\ClimateStory\\wwwroot\\",
+=======
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Neha Desai\\OneDrive\\Desktop\\Hackathon 2024\\ClimateStory\\HackathonCSharpUTM\\ClimateStory\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "ClimateStory",
       "SourceType": "Discovered",
@@ -1472,6 +1894,7 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Esha\\Desktop\\HackathonCSharpUTM\\ClimateStory\\wwwroot\\",
 >>>>>>> 5af9f608ea8396160293fab0eb49e3b4557fdf10
+>>>>>>> 418c9e158c6f10b714a2a5935a29db12c6dba0bb
       "BasePath": "_content/ClimateStory",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",
@@ -1488,6 +1911,12 @@
     },
     {
 <<<<<<< HEAD
+      "Identity": "c:\\Users\\moham\\Desktop\\hackathon\\HackathonCSharpUTM\\ClimateStory\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "SourceId": "ClimateStory",
+      "SourceType": "Discovered",
+      "ContentRoot": "c:\\Users\\moham\\Desktop\\hackathon\\HackathonCSharpUTM\\ClimateStory\\wwwroot\\",
+=======
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Neha Desai\\OneDrive\\Desktop\\Hackathon 2024\\ClimateStory\\HackathonCSharpUTM\\ClimateStory\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "ClimateStory",
       "SourceType": "Discovered",
@@ -1498,6 +1927,7 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Esha\\Desktop\\HackathonCSharpUTM\\ClimateStory\\wwwroot\\",
 >>>>>>> 5af9f608ea8396160293fab0eb49e3b4557fdf10
+>>>>>>> 418c9e158c6f10b714a2a5935a29db12c6dba0bb
       "BasePath": "_content/ClimateStory",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -1514,6 +1944,12 @@
     },
     {
 <<<<<<< HEAD
+      "Identity": "c:\\Users\\moham\\Desktop\\hackathon\\HackathonCSharpUTM\\ClimateStory\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "SourceId": "ClimateStory",
+      "SourceType": "Discovered",
+      "ContentRoot": "c:\\Users\\moham\\Desktop\\hackathon\\HackathonCSharpUTM\\ClimateStory\\wwwroot\\",
+=======
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Neha Desai\\OneDrive\\Desktop\\Hackathon 2024\\ClimateStory\\HackathonCSharpUTM\\ClimateStory\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "ClimateStory",
       "SourceType": "Discovered",
@@ -1524,6 +1960,7 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Esha\\Desktop\\HackathonCSharpUTM\\ClimateStory\\wwwroot\\",
 >>>>>>> 5af9f608ea8396160293fab0eb49e3b4557fdf10
+>>>>>>> 418c9e158c6f10b714a2a5935a29db12c6dba0bb
       "BasePath": "_content/ClimateStory",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -1540,6 +1977,12 @@
     },
     {
 <<<<<<< HEAD
+      "Identity": "c:\\Users\\moham\\Desktop\\hackathon\\HackathonCSharpUTM\\ClimateStory\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "SourceId": "ClimateStory",
+      "SourceType": "Discovered",
+      "ContentRoot": "c:\\Users\\moham\\Desktop\\hackathon\\HackathonCSharpUTM\\ClimateStory\\wwwroot\\",
+=======
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Neha Desai\\OneDrive\\Desktop\\Hackathon 2024\\ClimateStory\\HackathonCSharpUTM\\ClimateStory\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "ClimateStory",
       "SourceType": "Discovered",
@@ -1550,6 +1993,7 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Esha\\Desktop\\HackathonCSharpUTM\\ClimateStory\\wwwroot\\",
 >>>>>>> 5af9f608ea8396160293fab0eb49e3b4557fdf10
+>>>>>>> 418c9e158c6f10b714a2a5935a29db12c6dba0bb
       "BasePath": "_content/ClimateStory",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -1566,6 +2010,12 @@
     },
     {
 <<<<<<< HEAD
+      "Identity": "c:\\Users\\moham\\Desktop\\hackathon\\HackathonCSharpUTM\\ClimateStory\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "SourceId": "ClimateStory",
+      "SourceType": "Discovered",
+      "ContentRoot": "c:\\Users\\moham\\Desktop\\hackathon\\HackathonCSharpUTM\\ClimateStory\\wwwroot\\",
+=======
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Neha Desai\\OneDrive\\Desktop\\Hackathon 2024\\ClimateStory\\HackathonCSharpUTM\\ClimateStory\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "ClimateStory",
       "SourceType": "Discovered",
@@ -1576,6 +2026,7 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Esha\\Desktop\\HackathonCSharpUTM\\ClimateStory\\wwwroot\\",
 >>>>>>> 5af9f608ea8396160293fab0eb49e3b4557fdf10
+>>>>>>> 418c9e158c6f10b714a2a5935a29db12c6dba0bb
       "BasePath": "_content/ClimateStory",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -1592,6 +2043,12 @@
     },
     {
 <<<<<<< HEAD
+      "Identity": "c:\\Users\\moham\\Desktop\\hackathon\\HackathonCSharpUTM\\ClimateStory\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "SourceId": "ClimateStory",
+      "SourceType": "Discovered",
+      "ContentRoot": "c:\\Users\\moham\\Desktop\\hackathon\\HackathonCSharpUTM\\ClimateStory\\wwwroot\\",
+=======
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Neha Desai\\OneDrive\\Desktop\\Hackathon 2024\\ClimateStory\\HackathonCSharpUTM\\ClimateStory\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "ClimateStory",
       "SourceType": "Discovered",
@@ -1602,6 +2059,7 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Esha\\Desktop\\HackathonCSharpUTM\\ClimateStory\\wwwroot\\",
 >>>>>>> 5af9f608ea8396160293fab0eb49e3b4557fdf10
+>>>>>>> 418c9e158c6f10b714a2a5935a29db12c6dba0bb
       "BasePath": "_content/ClimateStory",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -1618,6 +2076,12 @@
     },
     {
 <<<<<<< HEAD
+      "Identity": "c:\\Users\\moham\\Desktop\\hackathon\\HackathonCSharpUTM\\ClimateStory\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "SourceId": "ClimateStory",
+      "SourceType": "Discovered",
+      "ContentRoot": "c:\\Users\\moham\\Desktop\\hackathon\\HackathonCSharpUTM\\ClimateStory\\wwwroot\\",
+=======
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Neha Desai\\OneDrive\\Desktop\\Hackathon 2024\\ClimateStory\\HackathonCSharpUTM\\ClimateStory\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "ClimateStory",
       "SourceType": "Discovered",
@@ -1628,6 +2092,7 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Esha\\Desktop\\HackathonCSharpUTM\\ClimateStory\\wwwroot\\",
 >>>>>>> 5af9f608ea8396160293fab0eb49e3b4557fdf10
+>>>>>>> 418c9e158c6f10b714a2a5935a29db12c6dba0bb
       "BasePath": "_content/ClimateStory",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -1644,6 +2109,12 @@
     },
     {
 <<<<<<< HEAD
+      "Identity": "c:\\Users\\moham\\Desktop\\hackathon\\HackathonCSharpUTM\\ClimateStory\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "SourceId": "ClimateStory",
+      "SourceType": "Discovered",
+      "ContentRoot": "c:\\Users\\moham\\Desktop\\hackathon\\HackathonCSharpUTM\\ClimateStory\\wwwroot\\",
+=======
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Neha Desai\\OneDrive\\Desktop\\Hackathon 2024\\ClimateStory\\HackathonCSharpUTM\\ClimateStory\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "ClimateStory",
       "SourceType": "Discovered",
@@ -1654,6 +2125,7 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Esha\\Desktop\\HackathonCSharpUTM\\ClimateStory\\wwwroot\\",
 >>>>>>> 5af9f608ea8396160293fab0eb49e3b4557fdf10
+>>>>>>> 418c9e158c6f10b714a2a5935a29db12c6dba0bb
       "BasePath": "_content/ClimateStory",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -1670,6 +2142,12 @@
     },
     {
 <<<<<<< HEAD
+      "Identity": "c:\\Users\\moham\\Desktop\\hackathon\\HackathonCSharpUTM\\ClimateStory\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "SourceId": "ClimateStory",
+      "SourceType": "Discovered",
+      "ContentRoot": "c:\\Users\\moham\\Desktop\\hackathon\\HackathonCSharpUTM\\ClimateStory\\wwwroot\\",
+=======
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Neha Desai\\OneDrive\\Desktop\\Hackathon 2024\\ClimateStory\\HackathonCSharpUTM\\ClimateStory\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "ClimateStory",
       "SourceType": "Discovered",
@@ -1680,6 +2158,7 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Esha\\Desktop\\HackathonCSharpUTM\\ClimateStory\\wwwroot\\",
 >>>>>>> 5af9f608ea8396160293fab0eb49e3b4557fdf10
+>>>>>>> 418c9e158c6f10b714a2a5935a29db12c6dba0bb
       "BasePath": "_content/ClimateStory",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -1696,6 +2175,12 @@
     },
     {
 <<<<<<< HEAD
+      "Identity": "c:\\Users\\moham\\Desktop\\hackathon\\HackathonCSharpUTM\\ClimateStory\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "SourceId": "ClimateStory",
+      "SourceType": "Discovered",
+      "ContentRoot": "c:\\Users\\moham\\Desktop\\hackathon\\HackathonCSharpUTM\\ClimateStory\\wwwroot\\",
+=======
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Neha Desai\\OneDrive\\Desktop\\Hackathon 2024\\ClimateStory\\HackathonCSharpUTM\\ClimateStory\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "ClimateStory",
       "SourceType": "Discovered",
@@ -1706,6 +2191,7 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Esha\\Desktop\\HackathonCSharpUTM\\ClimateStory\\wwwroot\\",
 >>>>>>> 5af9f608ea8396160293fab0eb49e3b4557fdf10
+>>>>>>> 418c9e158c6f10b714a2a5935a29db12c6dba0bb
       "BasePath": "_content/ClimateStory",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
