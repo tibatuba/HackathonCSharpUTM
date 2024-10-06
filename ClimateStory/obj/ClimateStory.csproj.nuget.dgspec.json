@@ -1,7 +1,37 @@
 {
   "format": 1,
   "restore": {
+<<<<<<< HEAD
     "C:\\Users\\tibaa\\OneDrive\\Desktop\\HackathonCSharpUTM\\ClimateStory\\ClimateStory.csproj": {}
+=======
+<<<<<<< HEAD
+    "C:\\Users\\Esha\\Desktop\\HackathonCSharpUTM\\ClimateStory\\ClimateStory.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Esha\\Desktop\\HackathonCSharpUTM\\ClimateStory\\ClimateStory.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Esha\\Desktop\\HackathonCSharpUTM\\ClimateStory\\ClimateStory.csproj",
+        "projectName": "ClimateStory",
+        "projectPath": "C:\\Users\\Esha\\Desktop\\HackathonCSharpUTM\\ClimateStory\\ClimateStory.csproj",
+        "packagesPath": "C:\\Users\\Esha\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Esha\\Desktop\\HackathonCSharpUTM\\ClimateStory\\obj\\",
+=======
+<<<<<<< HEAD
+    "c:\\Users\\Neha Desai\\OneDrive\\Desktop\\Hackathon 2024\\ClimateStory\\HackathonCSharpUTM\\ClimateStory\\ClimateStory.csproj": {}
+  },
+  "projects": {
+    "c:\\Users\\Neha Desai\\OneDrive\\Desktop\\Hackathon 2024\\ClimateStory\\HackathonCSharpUTM\\ClimateStory\\ClimateStory.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "c:\\Users\\Neha Desai\\OneDrive\\Desktop\\Hackathon 2024\\ClimateStory\\HackathonCSharpUTM\\ClimateStory\\ClimateStory.csproj",
+        "projectName": "ClimateStory",
+        "projectPath": "c:\\Users\\Neha Desai\\OneDrive\\Desktop\\Hackathon 2024\\ClimateStory\\HackathonCSharpUTM\\ClimateStory\\ClimateStory.csproj",
+        "packagesPath": "C:\\Users\\Neha Desai\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\Neha Desai\\OneDrive\\Desktop\\Hackathon 2024\\ClimateStory\\HackathonCSharpUTM\\ClimateStory\\obj\\",
+=======
+    "c:\\Users\\moham\\Desktop\\hackathon\\HackathonCSharpUTM\\ClimateStory\\ClimateStory.csproj": {}
+>>>>>>> e2542d3203547fd04c9f62e6b5cb74e67bf40cb2
   },
   "projects": {
     "C:\\Users\\tibaa\\OneDrive\\Desktop\\HackathonCSharpUTM\\ClimateStory\\ClimateStory.csproj": {
@@ -9,15 +39,31 @@
       "restore": {
         "projectUniqueName": "C:\\Users\\tibaa\\OneDrive\\Desktop\\HackathonCSharpUTM\\ClimateStory\\ClimateStory.csproj",
         "projectName": "ClimateStory",
+<<<<<<< HEAD
         "projectPath": "C:\\Users\\tibaa\\OneDrive\\Desktop\\HackathonCSharpUTM\\ClimateStory\\ClimateStory.csproj",
         "packagesPath": "C:\\Users\\tibaa\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\tibaa\\OneDrive\\Desktop\\HackathonCSharpUTM\\ClimateStory\\obj\\",
+=======
+        "projectPath": "c:\\Users\\moham\\Desktop\\hackathon\\HackathonCSharpUTM\\ClimateStory\\ClimateStory.csproj",
+        "packagesPath": "C:\\Users\\moham\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\moham\\Desktop\\hackathon\\HackathonCSharpUTM\\ClimateStory\\obj\\",
+>>>>>>> 817f21808468178f815ace06768c68cce8c57790
+>>>>>>> e6209c02ed257dbefce89e63e3650ce91841793d
+>>>>>>> e2542d3203547fd04c9f62e6b5cb74e67bf40cb2
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
+<<<<<<< HEAD
           "C:\\Users\\tibaa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+=======
+<<<<<<< HEAD
+          "C:\\Users\\Esha\\AppData\\Roaming\\NuGet\\NuGet.Config",
+=======
+          "C:\\Users\\Neha Desai\\AppData\\Roaming\\NuGet\\NuGet.Config",
+>>>>>>> e6209c02ed257dbefce89e63e3650ce91841793d
+>>>>>>> e2542d3203547fd04c9f62e6b5cb74e67bf40cb2
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],

@@ -2,6 +2,9 @@
   "Files": [
     {
 <<<<<<< HEAD
+      "Id": "c:\\Users\\Neha Desai\\OneDrive\\Desktop\\Hackathon 2024\\ClimateStory\\HackathonCSharpUTM\\ClimateStory\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\ClimateStory.bundle.scp.css",
+=======
+<<<<<<< HEAD
       "Id": "c:\\Users\\moham\\Desktop\\hackathon\\HackathonCSharpUTM\\ClimateStory\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\ClimateStory.bundle.scp.css",
       "PackagePath": "staticwebassets\\ClimateStory.bundle.scp.css"
     },
@@ -258,6 +261,7 @@
 =======
 <<<<<<< HEAD
       "Id": "C:\\Users\\Neha Desai\\OneDrive\\Desktop\\Hackathon 2024\\ClimateStory\\HackathonCSharpUTM\\ClimateStory\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\ClimateStory.bundle.scp.css",
+>>>>>>> 817f21808468178f815ace06768c68cce8c57790
       "PackagePath": "staticwebassets\\ClimateStory.bundle.scp.css"
     },
     {
@@ -269,7 +273,15 @@
       "PackagePath": "staticwebassets\\data\\GHG.csv"
     },
     {
+<<<<<<< HEAD
+      "Id": "c:\\Users\\Neha Desai\\OneDrive\\Desktop\\Hackathon 2024\\ClimateStory\\HackathonCSharpUTM\\ClimateStory\\wwwroot\\data\\NFDB_point_20240613.csv",
+      "PackagePath": "staticwebassets\\data\\NFDB_point_20240613.csv"
+    },
+    {
+      "Id": "c:\\Users\\Neha Desai\\OneDrive\\Desktop\\Hackathon 2024\\ClimateStory\\HackathonCSharpUTM\\ClimateStory\\wwwroot\\data\\OilGas.csv",
+=======
       "Id": "C:\\Users\\Neha Desai\\OneDrive\\Desktop\\Hackathon 2024\\ClimateStory\\HackathonCSharpUTM\\ClimateStory\\wwwroot\\data\\OilGas.csv",
+>>>>>>> 817f21808468178f815ace06768c68cce8c57790
       "PackagePath": "staticwebassets\\data\\OilGas.csv"
     },
     {
@@ -277,7 +289,15 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+<<<<<<< HEAD
+      "Id": "c:\\Users\\Neha Desai\\OneDrive\\Desktop\\Hackathon 2024\\ClimateStory\\HackathonCSharpUTM\\ClimateStory\\wwwroot\\images\\elephant.jpg",
+      "PackagePath": "staticwebassets\\images\\elephant.jpg"
+    },
+    {
+      "Id": "c:\\Users\\Neha Desai\\OneDrive\\Desktop\\Hackathon 2024\\ClimateStory\\HackathonCSharpUTM\\ClimateStory\\wwwroot\\js\\site.js",
+=======
       "Id": "C:\\Users\\Neha Desai\\OneDrive\\Desktop\\Hackathon 2024\\ClimateStory\\HackathonCSharpUTM\\ClimateStory\\wwwroot\\js\\site.js",
+>>>>>>> 817f21808468178f815ace06768c68cce8c57790
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
@@ -505,6 +525,9 @@
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
+<<<<<<< HEAD
+      "Id": "c:\\Users\\Neha Desai\\OneDrive\\Desktop\\Hackathon 2024\\ClimateStory\\HackathonCSharpUTM\\ClimateStory\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+=======
       "Id": "C:\\Users\\Neha Desai\\OneDrive\\Desktop\\Hackathon 2024\\ClimateStory\\HackathonCSharpUTM\\ClimateStory\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
 =======
       "Id": "C:\\Users\\Esha\\Desktop\\HackathonCSharpUTM\\ClimateStory\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\ClimateStory.bundle.scp.css",
@@ -773,6 +796,7 @@
       "Id": "C:\\Users\\Esha\\Desktop\\HackathonCSharpUTM\\ClimateStory\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
 >>>>>>> 5af9f608ea8396160293fab0eb49e3b4557fdf10
 >>>>>>> 418c9e158c6f10b714a2a5935a29db12c6dba0bb
+>>>>>>> 817f21808468178f815ace06768c68cce8c57790
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
